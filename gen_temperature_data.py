@@ -1,10 +1,17 @@
 #!/usr/bin/python
 
 import re
+import os
+import sys
+
 
 noteevent_file_path = "C:/Users/Brian/workspace/nlp/NOTEEVENTS.csv"
-temperature_file_high_path = "c:/Users/Brian/workspace/nlp/NOTEEVENTS_high_temperature.txt"
-temperature_file_low_path = "c:/Users/Brian/workspace/nlp/NOTEEVENTS_low_temperature.txt"
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+temperature_file_high_path = script_dir + "/data/noteevent-temperature/NOTEEVENTS_high_temperature.txt"
+temperature_file_low_path = script_dir + "/data/noteevent-temperature/NOTEEVENTS_low_temperature.txt"
+
 
 temperature_file_high = open ( temperature_file_high_path, 'w')
 temperature_file_low = open ( temperature_file_low_path, 'w')
