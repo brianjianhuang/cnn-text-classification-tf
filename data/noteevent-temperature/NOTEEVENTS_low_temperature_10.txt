@@ -1,0 +1,1000 @@
+at 5:33PM  she was afebrile with a temp of 96.5  however she
+[**3006 1 14**] 04:53PM BLOOD Type ART Temp 97.88000000000001 PEEP 5 pO2 88 pCO2 34*
+[**3006 1 13**] 07:09PM BLOOD Type ART Temp 98.41999999999999 Rates /24 PEEP 5
+[**3006 1 13**] 10:40AM BLOOD Type ART Temp 95.0 Rates /20 PEEP 5
+[**3006 1 12**] 10:19PM BLOOD Type ART Temp 98.96000000000001 pO2 65* pCO2 30*
+[**3006 1 12**] 01:10PM BLOOD Type ART Temp 97.88000000000001 Rates /12 Tidal V 500
+[**3006 1 11**] 04:50PM BLOOD Type ART Temp 96.98 Rates 20/0 Tidal V 500
+[**3006 1 2**] 03:29PM BLOOD Type ART Temp 97.16 O2 Flow 6 pO2 72*
+Temperature 98.7  heart rate 82  blood pressure 160/62 
+PHYSICAL EXAMINATION:  On admission  temperature is 99  heart
+revealed vital signs with temperature of 96.8  blood pressure
+admission revealed the patient's temperature was 98.8 degrees
+[**3344 11 13**] 10:28AM BLOOD Type ART Temp 98.6 Rates 15/ Tidal V 500
+[**3344 11 13**] 09:34PM BLOOD Type ART Temp 98.41999999999999 Rates 15/ Tidal V 500
+[**3344 11 13**] 09:18AM BLOOD Type ART Temp 98.78 Rates 18/0 Tidal V 500
+signs revealed her temperature was 99  her heart rate was 92
+[**3259 9 5**] 06:35AM   TYPE ART TEMP 97.34 RATES 0/14 TIDAL VOL 500
+Temp 98.6  P 94  BP 128/61  R 24  SaO2 96% 2L
+ED Course  presented with Temp 98.4  HR 96  BP 118/54  RR 44 
+[**3189 9 3**] 03:15PM BLOOD Type ART Temp 96.98 Rates /26 FiO2 70
+was planned. He was temporarily closed. On [**42.8 28**]  he was taken
+PHYSICAL EXAMINATION:  Temperature maximum 97.8  134/65  80 
+PHYSICAL EXAMINATION:  His temperature was 98.2 degrees 
+VITAL SIGNS:  Blood pressure 120/60  temperature 97.7  heart
+vitals: temp 97  HR 110  BP 161/90  RR 18 O2sat 98% 4LNC. Pt.
+temperature is 99.0  heart rate is 88 in normal sinus rhythm 
+VS: Temp: 98.1 BP: 142/100 HR: 112 RR: 20 O2sat 100% 2L
+[**3358 5 24**] 08:58AM BLOOD Type ART Temp 98.24 Rates 0/8 Tidal V 800
+[**3358 5 23**] 08:45PM BLOOD Type ART Temp 98.24 Rates 10/ PEEP 5
+[**3451 12 31**] 07:22PM BLOOD Type [**Last Name (un) **] Temp 96.8 pO2 48* pCO2 55*
+Temperature is 97.8 F.  His blood pressure
+VS: Temp 97.8 F  BP 108/30 mmHg  HR 78 BPM  RR 14   O2 sat 93%
+Medical Floor  temperature was 97.9 with a T max of 101 
+PHYSICAL EXAMINATION:   Vital signs:  Temperature 98.8  blood
+Physical Exam on Arrival to [**Hospital Unit Name 2084**]: Temp: 98.41999999999999 BP 116/51  HR 65  RR25  O2Sat 99% RA
+[**2579 1 1**] 05:19AM BLOOD Type [**Last Name (un) **] Temp 97.88000000000001 O2 Flow 2 pO2 44*
+Temp: 97.0 BP: 132/80 HR: 89 RR: 18 O2sat 100% on Bipap (15/5 
+VITAL SIGNS:  Blood pressure 140/80  temperature 98  pulse 66 
+4L. On transfer temp 97.9 67 120/45 18 96% 4 liters. CXR with
+temperature 91.4 degrees x 18 hours. Patient sedated with fentanyl
+temperature was 98.1  blood pressure was 126/44  and heart
+PHYSICAL EXAMINATION:  Temperature 97 degrees. Pulse 86.
+of ED. Access is 18g and 20g PIV. Temp 97.6 96 120/70 37 99 NRB.
+VS: Temp: 98.1 BP: 87/35 HR: 102 RR: 31 O2sat 94% 2 LNC
+temperature of 97.2  blood pressure was 100/40  heart rate
+INITIAL PHYSICAL EXAMINATION:  Temperature 97.6  heart rate
+Vital signs:  Temperature 97.4  pulse 85  respirations 21 
+the nasogastric tube in place.  Temperature is 97.9 F  pulse
+TECHNIQUE: CT of the temporal bones was performed with 34.25 mm
+PHYSICAL EXAMINATION:  Temperature 98.8  heart rate 70  blood
+# [**Name (NI) 3929**] Pt with intial temp of 92 on admission to the
+VS   Temp 97.1 F  BP 128/78  HR 112  R 24  O2 sat 96% RA
+temperature max on hospital day #35.6 was 104.5.  His primary
+temperature of 98  blood pressure of 140/84  pulse of 54 
+temperature of 98.1  heart rate of 98 (atrial fibrillation) 
+temperature of 98  blood pressure of 140/84  pulse of 54 
+temperature of 98.1  heart rate of 98 (atrial fibrillation) 
+[**3261 4 9**] 04:56PM BLOOD Type ART Temp 95.53999999999999 Rates /20 Tidal V 500
+[**3261 4 10**] 11:46AM BLOOD Type ART Temp 98.6 Rates /26 Tidal V 450
+[**3261 4 10**] 04:25PM BLOOD Type ART Temp 97.7 Rates /22 Tidal V 450
+[**3261 4 11**] 05:54AM BLOOD Type ART Temp 97.16 Rates /28 Tidal V 542
+[**3261 4 13**] 11:48AM BLOOD Type ART Temp 98.6 Rates /24 PEEP 5
+[**3261 4 13**] 10:12PM BLOOD Type ART Temp 98.24 Rates /32 Tidal V 321
+[**3261 4 14**] 03:11AM BLOOD Type ART Temp 98.24 Tidal V 400 PEEP 5
+[**3018 10 7**] 09:54PM   TYPE MIX TEMP 96.08000000000001 RATES /15 TIDAL VOL 500
+Department  the patient had a temperature of 97.7  pulse of
+[**2583 1 13**] 06:28PM BLOOD Type ART Temp 97.16 Rates /14 Tidal V 350
+[**2583 1 14**] 03:26AM BLOOD Type ART Temp 97.16 pO2 106* pCO2 53*
+PHYSICAL EXAMINATION:  On admission temperature 99.0  pulse
+a temperature spike on [**41.0 8**] to 101.41.0 F.  at which time
+EXAM ON ADMISSION:  Temperature 97.0  heart rate 74  blood
+Temp: 95 Tmax: 100.2
+[**2698 5 8**] 02:56AM BLOOD Type [**Last Name (un) **] Temp 98.06 Rates 16/ Tidal V 550
+PHYSICAL EXAMINATION:  Temperature 97  blood pressure 95/69 
+temperature of 96.6  heart rate of 85 (atrial fibrillation) 
+on admission revealed his temperature was 98.4 degrees
+CONDITION ON DISCHARGE:  Temperature maximum 98.4  pulse 86 
+Temperature of 97.2  blood pressure 143/92  O2 sat 99%  pulse
+PHYSICAL EXAMINATION:   Temperature 98.4  heart rate 82 and
+Temp Max: 97.5 Temp current: 97.5 HR: 64 92 RR: 24 26 BP:
+[**3492 12 6**] 11:32PM BLOOD Type ART Temp 98.6 O2 Flow 4 pO2 67*
+VITAL SIGNS   Temp 96.1 F  BP 154/74 mmHg  HR 58 BPM  RR 16 X' 
+temperature 97.4  heartrate 94  sinus rhythm  blood pressure
+rectal temp came up to 93.  He was transferred to the ICU for
+on admission revealed temperature was 97.6  pulse was 98 
+vital signs revealed her temperature was 98.5 degrees
+temperature of 97.8 degrees Fahrenheit  her heart rate was
+VS: Temp 97.7  HR 72  BP 102/60  RR 18  O2 sat 95% on room air
+[**3320 4 4**] 12:50PM BLOOD Type ART Temp 98.6 O2 Flow 6 pO2 202*
+with daily CBCs  temporarily (41.0 days) stopped azathioprine  and
+fever and sometimes his temperature would be 98.5 (fevers
+PHYSICAL EXAMINATION:  Temperature 96.9  blood pressure
+[**2855 9 25**] 10:20AM BLOOD Type ART Temp 96.8 Rates /12 Tidal V 500
+[**2855 9 25**] 10:20AM BLOOD Type ART Temp 96.8 Rates /12 Tidal V 500
+[**3263 10 7**] 07:34PM   TYPE ART TEMP 98.78 RATES /42 O2 50 PO2 87
+                       Type Temp       pO35.6 pCO35.6 pH calTCO35.6 Base
+Vitals: Temp: 96.9   BP: 146/72  HR: 71  RR:21  O2 Sat: 100%
+following:    Temperature  96.9  blood pressure 108/48  heart
+PHYSICAL EXAMINATION:  Temperature 97.2  heartrate 85  blood
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.1  heart
+distress.  Vital signs temperature 98.0  heart rate 68  blood
+on admission revealed a temperature of 98.7  heart rate
+temperatures.  A blood culture from [**41.0 8**] revealed 1/4
+PHYSICAL EXAMINATION:  On admission temperature 97.4 F  heart
+pressure was 131/69  temperature 98.4  heartrate 91 
+blood pressure of 131/69  temperature 98.4  heart rate 91 
+temperature of 98.7  blood pressure was 103/54  with a heart
+VS   Temp 98.1  BP 146/64  HR 88  R 22  O2 sat 92% 2L
+PHYSICAL EXAMINATION:  Temperature 98.8  heart rate 88  blood
+PE: Temp 98 BP 111/60  HR: 89  RR 17 98% 4L NC
+temp 97.3  BP 86 99/49 72  HR 87  RR 18  O2 98% RA
+blood on guaiac.  Rectal temp was thought to be 96.  Patient was
+Vitals: temp 97.7  bp 130/70  HR 80  RR 20  SaO2 96% on 2L
+[**3383 11 19**] 03:30AM BLOOD Type ART Temp 96.08000000000001 O2 Flow 4 pO2 92
+# Fever: temp spike [**37.4 6**]. UA/CXR unremarkable. Blood cx X2
+CONDITION AT DISCHARGE:   Temperature maximum 98.8 F.; pulse
+temperature was 98.9  heart rate 84 to 110  mean arterial
+[**2978 8 24**] 09:21PM BLOOD Type ART Temp 98.06 pO2 35* pCO2 46*
+Temperature 98.2  heart rate 87  blood pressure 108/58 
+temperature was 98.5 F.; blood pressure 100/50; pulse 70 and
+temperature 98.1 degrees  blood pressure 123/60  heart rate
+Vitals: TEMP 97.1  HR 83  BP 124/68  RR 23  SAT 96% 3L NC
+[**2990 5 7**] 02:57PM BLOOD Type ART Temp 97.34 Rates /12 Tidal V 500
+PHYSICAL EXAM ON ADMISSION:  Temperature of 96.0  blood
+admission with temperatures ranging from 95 to 96  while he
+was on a warming blanket.  His temperatures are 92 to
+temperature of 98.5 degrees Fahrenheit  his heart rate was
+showed temperature 98.9  heart rate 82  sinus rhythm  blood
+[**2515 1 2**] 10:49PM   TYPE ART TEMP 98.96000000000001 RATES /15 PO2 161* PCO2 36
+[**2515 1 2**] 09:27PM   TYPE ART TEMP 98.96000000000001 PO2 506* PCO2 46* PH 7.17*
+temperature of 98.6  heartrate 109  blood pressure 130/78 
+blood pressure in the 80s.  Temperature was 98.4  heart rate
+Vital signs were temperature 98.4  heart rate 70  blood
+temperature of 97.9 F.; heart rate of 114; respiratory rate
+temperature is 96.9  blood pressure 103/63  heart rate 86 
+PHYSICAL EXAMINATION:   Temperature 97.3 F.; blood pressure
+temperature 95.5  blood pressure 184/94  heart rate 105 
+PHYSICAL EXAMINATION:  On admission temperature 98  blood
+VS: temp 97.7  bp 155/97  HR 76  RR 18  SaO2 100% (intubated)
+examination  temperature of 98.6  blood pressure of 119/68 
+levofloxacin). Vitals on transfer were: Temp: 98.7  Pulse: 80 
+temperature was 97.1 with a pulse of 101 and a blood pressure
+his temperature was 98.4  his blood pressure was 134/80  his
+Pt did have lowgrade temp 99. On Dc WBC is decreased  ua
+to his jaw. No fevers  + chills   temp at home has been 95 96.0.
+VS: Temp: 96 BP:102/68 HR:87 RR:16 O2sat 99RA
+[**3244 8 15**] 02:04AM BLOOD Type [**Last Name (un) **] Temp 98.6 pO2 39* pCO2 38
+VS: Temp: 97.8  BP: 125/83  HR: 89  RR: 16  O2sat: 96 RA
+[**2960 5 7**] 09:00PM   TYPE ART TEMP 97.7 O2 FLOW 5 PO2 77* PCO2 29*
+[**2960 5 7**] 09:00PM BLOOD Type ART Temp 97.7 O2 Flow 5 pO2 77*
+cyanotic.  His temperature was 98 and his oxygen saturation
+VITAL SIGNS ON ADMISSION:  Temperature 95.0  blood pressure
+had a temperature of 97.3  pulse of 75  blood pressure
+awoke feeling shaky with a temperature of 99  no sweats at
+saturation 96% on room air  temperature 98.2  respiratory
+with a temperature of 97.  Heart rate of 80.  Blood pressure
+Temp 97.3  HR 79 (A fib)  178/60  RR 14  O2 Sat 90% on RA
+temperature is 96.9  pulse 82  blood pressure 126/38 that
+follows:  Vital signs with a temperature of 98.0 F  heart
+temperature of 97.5  heart rate 77  respiratory rate 16 
+Mr. [**Known patient lastname **] had a low grade temperature on [**35.6 16**].
+PHYSICAL EXAMINATION:   Temperature 97.7 F.; blood pressure
+PHYSICAL EXAMINATION ON TRANSFER:  Temperature 98.4  blood
+Exam: Temp 98.3   HR 85   BP 186/103  RR 16  Oxygen 99% on room
+[**3071 11 8**] 11:47AM   TYPE ART TEMP 95.0 PO2 23* PCO2 38 PH 6.99*
+CONDITION ON DISCHARGE:  Vital signs:  Temp 97  pulse 62 in
+patient had a temperature of 98.3 F  blood pressure 120/68 
+[**2957 5 12**] 03:34PM BLOOD Type ART Temp 98.41999999999999 FiO2 98 pO2 86 pCO2 41
+[**3494 5 25**] 11:05PM BLOOD Type ART Temp 98.06 Tidal V 300 PEEP 5
+ABG at ICU Discharge: Type ART Temp 98.96000000000001 pO2 91 pCO2 70* pH 7.42
+ABG at ICU Discharge: Type ART Temp 98.96000000000001 pO2 91 pCO2 70* pH 7.42
+[**3295 7 9**] 04:58AM BLOOD Type ART Temp 98.96000000000001 pO2 91 pCO2 70*
+[**3295 8 30**] 04:29AM BLOOD Type ART Temp 98.06 pO2 158* pCO2 85*
+[**2906 8 7**] 10:28PM BLOOD Type ART Temp 98.6 pO2 143* pCO2 36
+temperature 97.7  pulse 79  blood pressure 94/63 
+DISCHARGE VITALS:  Temperature 98.3  heart rate 81  sinus
+80 110  temp 98 101  SAT 95 100% on 2L  SR and rare PVC.
+with a blood pressure of 190/118  temperature of 96.8 and
+PHYSICAL EXAMINATION:  On admission temperature 99.0  pulse
+Temperature 96.7  heartrate 96  blood pressure 155/91  99% on
+requiring levophed temporarily. On [**46.4 246.4**] Trach placed by IP and
+on admission showed a temperature of 98.6  pulse was 84 
+[**2798 6 30**] 06:04PM BLOOD Type [**Last Name (un) **] Temp 98.78 pO2 45* pCO2 51*
+[**3424 5 18**] 11:50AM BLOOD Type ART Temp 98.96000000000001 FiO2 100 pO2 152*
+[**2575 12 15**] 09:19PM BLOOD Type ART Temp 98.06 pO2 72* pCO2 47*
+[**2576 1 4**] 09:25AM   TYPE ART TEMP 97.16 O2 FLOW 4 PO2 70* PCO2 44
+PHYSICAL EXAMINATION:  Temperature 95.5  heart rate 85  blood
+PHYSICAL EXAM:  Vital signs:  Temperature 98.4  pulse 103 
+Vital Signs: Temp: 97.4 RR: 16 Pulse: 66 BP: 117/81
+spiking temps since [**46.4 12**] at rehab.  In review of her med list 
+76 from 28  rectal temp on field was 94.5 given warming blanket
+VS: Temp 97.5  BP 141/56  HR 69  RR 18  O2 96% on 2L NC
+In the ED his initial temperature was 98.7 with HR of 102  BP
+following:  Temperature 97.1  heart rate 68  blood pressure
+PHYSICAL EXAMINATION:  Temperature 97.1  pulse 99  blood
+In the ED  vital signs Temp 97.1 BP 150/36 RR 24  O2 Sat: 99% RA
+Temp 98  HR  90  BP  135/70  RR 18  O2 sat 98% RA
+PHYSICAL EXAMINATION:  Temperature 98.9  heart rate 114 
+was as follows:  Vital signs with temperature 97.0 F.; heart
+[**2944 5 15**] 09:37PM BLOOD Type ART Temp 98.06 Rates /24 O2 Flow 4
+temperature has repeatedly been measured at 98.5 by nursing
+patient had a temperature of 97.9  blood pressure 136/76 
+Intensive Care Unit  temperature 97.8  heart rate 92  blood
+107/56  temp 98.4  hr 81  rr 18 100%
+[**3027 11 10**] 07:00PM   TYPE ART TEMP 98.06 PO2 36* PCO2 98* PH 7.20*
+PHYSICAL EXAMINATION:  On admission temperature was 98  blood
+[**2766 7 16**] 11:53PM BLOOD Type ART Temp 98.96000000000001 Rates /20 FiO2 60 O2
+VS: Temp: 97.8  BP: 118/69 HR: 67 RR: 21 O2sat: 98% 2LNC
+CONDITION ON DISCHARGE:  Temperature 97.6  pulse 74 and in
+physical examination  temperature 97.5  heart rate 73 sinus
+  Temporal lobe epilepsy (unclear diagnosis with 33.8 suggestive
+[**3279 4 9**] 08:16AM   TYPE ART TEMP 97.7 PO2 46* PCO2 39 PH 7.35
+EXAMINATION:  Temperature 96.3  blood pressure 116/70  heart
+of the hemorrhage and R temporal lobectomy.  On POD #41.0 she
+Temperature: 96.6 Blood pressure: 131/78 Pulse: 72 Respiration:
+INITIAL PHYSICAL EXAMINATION:  Temperature 97.2 degrees
+In the ED  vitals were temp 98.1  HR 40 90  bp 140/90  RR 20 
+VS   temp 99  bp 149/62  HR 70  RR 18  SaO2 98% on 1L
+[**2897 10 15**] 10:39PM   TYPE ART TEMP 98.41999999999999 RATES /16 TIDAL VOL 500
+temp 97.7  BP 155/82  HR 89  RR 32  O2 95% on RA
+[**2513 8 16**] 10:03PM BLOOD Type ART Temp 97.88000000000001 Rates 16/ Tidal V 600
+temperature was 96.5  blood pressure was 114/64  heart rate
+EXAMINATION ON ADMISSION:  Temperature 95.9  blood pressure
+was found with a temperature of 95.9  blood pressure 60/43 
+TYPE ART TEMP 96.98 PO2 148* PCO2 35 PH 7.18* TOTAL CO2 14* BASE
+Temperature 99.0  pulse 73  blood pressure 94/49  respirations
+[**2598 12 26**] 04:28AM BLOOD Type ART Temp 98.06 pO2 89 pCO2 42
+patient's vital signs were a temperature of 97.5  a heart
+[**3285 2 11**] 02:08AM BLOOD Type ART Temp 98.06 Rates 20/0 Tidal V 400
+VS   Temp 98.4  BP 122/58  HR 80  R 20  O2 95% on RA
+on admission revealed temperature was 96.3  heart rate was
+PHYSICAL EXAMINATION:  Temperature 97.3  blood pressure
+[**3333 12 2**] 08:57AM BLOOD Type ART Temp 97.7 pO2 70* pCO2 33*
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 95.8  pulse
+Temp: Afebrile HR: 82 BP: 130/76 Resp: 18 O(2)Sat: 98% on
+temperature 95  pulse 116  blood pressure 101/50  99% on
+revealed temperature was 95  heart rate was 116 and irregular
+PHYSICAL EXAMINATION:  Temperature 98.0 F  pulse 96  blood
+temperature of 98.4  heart rate of 60  sinus rhythm  blood
+with temperature of 97.9  blood pressure 134/80  heart
+Upon arrival in the ED  temp 98.2  BP 80/48  HR 106  RR 17  and
+VS   Temp   BP   HR   R   O35.6 sat % RA
+revealed temperature of 97.4  pulse 76  blood pressure
+ABG Temp 98.06 O2 Flow 3 pO2 106* pCO2 42 pH 7.38 calTCO2 26 Base
+patient's temperature was 96.6  heart rate 80  blood pressure
+revealed temperature was 98.2  blood pressure was 145/72 
+was temperature 95.3  blood pressure 120/47  pulse 76 
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 97.0  blood
+VS: Temp 98.6  BP 95 100/50  HR 60 62  RR 12 16  O2sat 100RA
+temperature 98.2  heart rate 88  blood pressure 140/68 
+Temp:  98.7       HR: 67      BP: 139/52 RR: 18 O2 Sat:99% 2LNC
+VS: Temp: 96.6 BP: 122/73 HR: 88 RR: O2sat  AC 500/12 fi02 0.50
+[**3362 10 27**] 03:44PM BLOOD Type ART Temp 96.44 Rates [**10 29**] Tidal V 450
+[**3362 10 28**] 08:13AM BLOOD Type ART Temp 98.96000000000001 Tidal V 350 PEEP 5
+VS: Temp: 96.8  BP: 147/61 HR: 71  RR: 18  O2sat: 89%RA/
+Upon arrival to ED  temp was 96.6  HR 96  BP 108/53  RR 17  and
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 95.6  blood
+PHYSICAL EXAMINATION:  Vital signs  temperature 98.9  blood
+as follows. Vital signs   temperature 98  heart rate 69
+continued spiking temperatures and on [**41.0 8**] she was taken back
+PHYSICAL EXAMINATION:  Vital signs: Temperature 98.3  blood
+PHYSICAL EXAM:  Temperature 98.4  blood pressure 120/80 
+as follows: Temperature 98.9  heart rate 80 A sensed  V 
+Exam (on arrival to MICU): temp 98.9  BP 132/60  HR 104  R 12 
+[**2896 6 5**] 08:28PM   TYPE ART TEMP 98.06 PO2 91 PCO2 42 PH 7.40
+[**2896 6 9**] 07:54AM BLOOD Type ART Temp 97.16 Tidal V 380 O2 40
+temporary pacing wire was inserted through the 41.0 French venous
+temperature maximum and temperature current were 96.7  his
+[**2591 8 11**] 12:21PM BLOOD Type [**Last Name (un) **] Temp 96.8 O2 Flow 3 pO2 34*
+PHYSICAL EXAMINATION:   Temperature 98.7  blood pressure
+to 94/66 HR 64 resp 20 sat 100% RA  temp 94.9 rectal. He was
+94 initially  placed on bear hugger  temp improved to 97.3 po by
+had temperature 97.6  heartrate 80  blood pressure 200/70 
+were temperature of 97.6  heart rate 80  blood pressure
+oriented times three  temperature 97.3  pulse 99  blood
+PHYSICAL EXAMINATION:  Temperature 98.4 F  pulse 106 to 116 
+VS: temp: 98.3  HR 75  BP 148/98  RR 14  O2sat 99% on 3L NC
+examination the patient's temperature was 96 degrees
+his temperature of 98.1  sinus rhythm at 80  blood pressure
+VITAL SIGNS:  Temperature 98.4  heart rate 82  blood pressure
+appearing stated age.  Vital signs:  Temperature 98.1  heart
+VS:  Temp:  98    BP:160/80    HR:76   RR:18    97%2lO2sat
+[**3470 11 1**] 02:56PM   TYPE ART TEMP 97.88000000000001 RATES 14/ TIDAL VOL 550
+PHYSICAL EXAMINATION:  Temperature 98.4  pulse 59 in sinus
+V/S  Temp 99.0  BP 119/64   HR 113 afib  RR 19   SaO2: 100% RA
+PHYSICAL EXAMINATION:  Her temperature was 97.6  heart rate
+Temperature 98.7  heart rate 77 sinus rhythm  blood pressure
+temperature of 97.3  blood pressure 183/76.  Pulse 99.  She
+asked to monitor your temperature at home (ideally every [**37.4 21**]
+Vital signs:  Temperature 96.8  blood pressure 144/58  heart
+Unit  temperature of 98.7 F.; heart rate of 90; blood
+with a temperature of 97.4 and a white count of 12.7.
+Vital Signs: Temp 97.8 RR 16 SpO2 98% RA  HR 84 BP 98/60
+[**3041 2 25**] 06:51PM BLOOD Type ART Temp 98.41999999999999 Rates /14 FiO2 35
+[**3041 2 25**] 05:11PM BLOOD Type ART Temp 98.41999999999999 PEEP 5 pO2 132*
+[**3041 2 25**] 03:24PM BLOOD Type ART Temp 96.98 FiO2 40 pO2 125*
+PHYSICAL EXAMINATION:  Temperature 97.8  blood pressure
+[**2770 5 21**] 03:52PM   TYPE [**Last Name (un) **] TEMP 98.06 TIDAL VOL 500 PEEP 5 O2 50
+[**2852 10 22**] 06:46AM BLOOD Type ART Temp 96.26 FiO2 100 pO2 55*
+PHYSICAL EXAM ON ADMISSION:  Temperature is 96  heart rate
+and oriented man with a temperature of 95  pulse 105  blood
+Temperature 98.4  pulse 75  blood pressure 106/55 
+temp 98  BP 113/50 (90 120/40 60)  HR 80 (60 80)  R 20  O2 94%
+[**3039 1 28**] 01:34PM   TYPE ART TEMP 98.06 RATES 16/16 O2 96 O2
+PHYSICAL EXAMINATION:   Temperature 97.1 F.; blood pressure
+[**3158 8 13**] 04:09PM   TYPE ART TEMP 98.24 RATES /20 O2 50 PO2 103
+Temp 96.3  BP 102/54; RR 21; O2 93% on 5LNC (off bipap)
+18; temperature 96.5 F.  In general  well developed  but does
+centro temporal 48.2 Hz sharp waves  there was no clear evolution
+[**2590 8 9**] 07:41AM BLOOD Type ART Temp 98.41999999999999 pO2 86 pCO2 47*
+[**2590 7 17**] 01:30AM BLOOD Type ART Temp 98.96000000000001 Rates 10/ Tidal V 700
+[**2590 7 18**] 02:19PM BLOOD Type ART Temp 98.96000000000001 Tidal V 550 PEEP 10
+remarkable for temperature of 96.9  blood pressure 92/76 
+weight 155 pounds. vital signs showed temperature 98.6  blood
+on admission revealed temperature was 99  blood pressure was
+Vital Signs:  Temperature 98.1 F  Blood Pressure 128/80  Pulse
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.7 F.;
+CONDITION ON DISCHARGE:  Temperature maximum 98.8  pulse 93 
+VS: Temp: 97.7 BP: 152/80 HR: 88 RR: 16 O2sat 98% on 3L NC
+PHYSICAL EXAMINATION:  On transfer  temperature 97.5  pulse
+Temperature 98.2  blood pressure 120/70  pulse 78 
+In the ED: Temp 98.4  BP 97/70  HR 103  RR 20  100% 3LNC. Labs
+VS: Temp 95.3  BP 144/70  HR 106  RR 24 100% 2LNC
+PHYSICAL EXAMINATION:  His temperature was 98.5  heart rate
+Temp: 98.5 HR:71 BP: 165/59 RR: 13 98% RA
+PHYSICAL EXAMINATION:  Temperature 98.1 F.; blood pressure
+temperature.  She woke up again at 39.2 AM c/o of being hot  and
+  BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6 pCO35.6
+VS: Temp: 97.9 BP: 134/57 HR 103: RR 21: O2sat 97%
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 97.5  heart
+revealed the patient's temperature was 98.4 degrees
+Temp 97 3
+temperature 96  pulse 111  blood pressure 110/55 
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.2  blood
+temperature 97.2 degrees  pulse 84 and regular  blood
+PHYSICAL EXAMINATION:  On admission  temperature 98.3  pulse
+[**3360 12 1**] are temperature 97  pulse 52 and normal sinus rhythm.
+Temp: 98.8  HR: 111 BP: 118/65 Resp: 18 O(2)Sat: 96 Normal
+Temp: 96 point HR: 83 BP: 19/60 Resp: 22 O(2)Sat: 100% on 2
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 94.8  pulse
+with a temperature of 97  blood pressure of 110/60  heart
+Vitals: Temp 97.7 HR77  BP135/110  RR21  Sat 100%3LNC
+PHYSICAL EXAMINATION:  Temperature 98.5  heart rate 80  blood
+[**3118 5 12**] 08:24PM   TYPE ART TEMP 97.16 RATES /14 TIDAL VOL 600
+temperature 98.8  blood pressure 170/110  heart rate 100 
+intern  temperature was 97.7  blood pressure 118/70  pulse
+She continued to remain stable.  Temperature maximum on [**53.6 29**]
+PHYSICAL EXAM:  Her temp was 97  BP 162/75  respiratory rate
+temp: 98.8 pulse: 95 bp: 133/80 98% on RA
+Most recent vital signs showed a temperature of 97.6  heart
+CONDITION AT DISCHARGE:  Maximum temperature 97  pulse 57 
+[**3034 10 14**] 02:22PM   TYPE ART TEMP 98.6 RATES /30 O2 60 PO2 118*
+[**3034 10 21**] 09:40AM BLOOD Type ART Temp 97.52 O2 Flow 4 pO2 70*
+fever  had chills last evening but temp was 97.8 at home. She
+the patient had a temperature of 98.6  heart rate 110  blood
+some hours later was as follows:  Temperature 96.9 F.; blood
+temp 98.5  BP 129/72  HR 89  R 22  O2 95% on 3L
+[**2923 11 2**] 10:32PM   TYPE ART TEMP 96.61999999999999 TIDAL VOL 370 PEEP 5
+[**2713 10 1**] 06:41AM BLOOD Type ART Temp 97.34 pO2 75* pCO2 47*
+PHYSICAL EXAMINATION:  Temperature 98 F  blood pressure
+[**3429 8 4**] 05:21AM BLOOD Type ART Temp 98.06 pO2 77* pCO2 41
+There is a left temporal hematoma  38.660000000000004 x 5.2 cm  previously 3.5
+follows:  Vital signs:  Temperature 98.2  heart rate 76 sinus
+[**3305 5 18**] 09:45AM BLOOD Type ART Temp 98.41999999999999 pO2 107* pCO2 32*
+[**2883 9 18**] 09:30PM BLOOD Type ART Temp 96.98 Rates 24/ Tidal V 600
+INITIAL PHYSICAL EXAMINATION:  Temperature 96.9  heart rate
+PHYSICAL EXAMINATION:  Temperature 95.2 axillary  heartrate
+PHYSICAL EXAM ON ADMISSION:  Temperature 96.9  blood pressure
+her temperature was 96.8  the blood pressure was 100  the
+Vital Signs: Temp 98.2 HR 72 BP 138/84 RR 20 O2 sat 100% on RA
+afebrile with a temperature max of 98.2  heart rate of 70 and
+temperature to 99.  He did have a transient fever spike to
+When she was seen  her temperature was 98.5  with a pulse of
+DISCHARGE PHYSICAL EXAMINATION:  Temperature 98.9  heartrate
+PHYSICAL EXAMINATION:  Temperature of 98.7  143/78  80  48 
+as follows:  Vital signs temperature 98.9  heart rate 67
+Temp: 96.6 HR: 83 BP: 142/76 Resp: 18
+Temp: 98.0 HR: 71 BP: 117/62 Resp: 18 94% RA
+BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6
+[**3050 8 27**] 02:56AM   TYPE ART TEMP 98.96000000000001 PO2 231* PCO2 35 PH 7.41
+a temporary HD line in left femoral line. She was dialyzed [**44.6 11**].
+V/S: Temp 96 2  BP 85/59  Pulse 89  Resp 18
+had a temperature of 96.4  blood pressure 115/50  heart rate
+temperature was 96.6  blood pressure 132/70  heart rate was
+PHYSICAL EXAM ON ADMISSION:  Temperature 96.4  blood pressure
+temporal lobe. This hemorrhage causes 42.8 mm rightward shift of
+frontoparietal and left temporoparietal regions with 42.8 mm of
+Temp 95.5 (ax)  HR 80 (64 92)  BP 90/50  RR 18  Sat 93 on 3L
+[**2917 1 14**] 11:41AM   TYPE ART TEMP 96.98 O2 100 PO2 316* PCO2 42
+PHYSICAL EXAMINATION:  Temperature 99.  Blood pressure
+vitals: Temp 98.2 HR 80 BP 110/70 sat 94% on vent GCS 3T
+[**2549 8 2**] 07:13AM BLOOD Type ART Temp 96.44 pO2 82* pCO2 33*
+[**2549 8 5**] 02:56AM BLOOD Type ART Temp 98.06 Rates /32 Tidal V 100
+vital signs  temperature was 98  heart rate 120  blood
+PHYSICAL EXAMINATION:  Temperature 98.4  heart rate 108 
+have a temperature of 98.4 degrees Fahrenheit with a heart
+[**3488 7 2**] 12:37PM BLOOD Type ART Temp 97.7 O2 Flow 4 pO2 107*
+[**3488 7 1**] 01:49PM BLOOD Type ART Temp 97.52 O2 Flow 4 pO2 68*
+[**3488 6 29**] 01:52PM BLOOD Type ART Temp 98.96000000000001 Rates /22 FiO2 95
+Pt did have some very low grade temps (99 100) with a slightly
+[**3288 11 15**] 03:36AM BLOOD Type ART Temp 96.98 PEEP 5 pO2 63*
+[**3288 11 15**] 02:43AM BLOOD Type ART Temp 97.16 Rates 30/ Tidal V 500
+temporal region that would last 33.8 2 seconds at a time for 2hrs.
+Department  temperature was 98.5  heart rate 90  blood
+revealed temperature was 99.0  heart rate was 94  blood
+vital signs were temperature 96.4 F.; blood pressure 74/37;
+[**3323 3 1**] 10:00PM   TYPE [**Last Name (un) **] TEMP 98.24 PH 7.44
+ICU for further care.  His temporary HD line (placed [**48.2 30**] for HD
+In the ED: Temp 98.6  BP 117/68  HR 90  RR 16  98% RA.  Labs
+PHYSICAL EXAMINATION:  Temperature was 97.2  blood pressure
+ostomy site  chills and low grade temps x 37.4 days.
+ostomy site  chills  low grade temps x 37.4 days  urine cx from
+revealed temperature was 96.9  heart rate was 73  normal
+[**3128 4 10**] 12:09AM BLOOD Type ART Temp 98.41999999999999 pO2 427* pCO2 36
+Vitals   Temp 97.1  BP 142/95  P 71  RR 15  O2sat 100% RA
+[**3405 10 4**] 03:35AM BLOOD Type ART Temp 97.34 pO2 530* pCO2 35
+respiratory distress.  Vital signs:  Temperature 98.8  heart
+temperature was 98.9  heart rate was 70  blood pressure was
+[**3347 12 2**] 07:55AM BLOOD Type ART Temp 96.98 pO2 60* pCO2 32*
+[**3241 6 25**] 08:47PM   TYPE ART TEMP 97.34 PO2 148* PCO2 35 PH 7.49*
+[**3241 6 25**] 08:47PM BLOOD Type ART Temp 97.34 pO2 148* pCO2 35
+Vital signs:  Temperature 98.3  heart rate 87 A sensed  V
+[**3350 9 29**] 04:18AM BLOOD Temp 98.78 pO2 227* pCO2 47* pH 7.43
+[**2864 1 4**] 05:14AM BLOOD Type CENTRAL VE Temp 98.6 pH 7.51*
+no apparent distress.  Vital signs:  Temperature 96.9  blood
+vitals were temperature of 97.6  pulse 60  blood
+signs:  Temperature 97.8  blood pressure 108/44  heart rate
+signs:  Temperature 99  blood pressure 91/48  heart rate 70 
+temperature was 98.1  blood pressure 68/34  heart rate 80 
+PHYSICAL EXAMINATION:  Temperature was 98.1  heart rate 100 
+VS: Temp: 96.3 BP:109/62 HR: 117 RR: 19 O2sat: 98% on 2L
+Vitals: Temp: 97.7  HR 71  BP 149/57  O2 sat 98% on 3L NC
+VS   Temp 98.3  120/79 BP   86 HR   20 R   97% O2 sat RA   just
+temperature and O35.6 sats  and cardiopulmonary status.
+PHYSICAL EXAMINATION:  Temperature 98.3  pulse 83  blood
+In the ED  initial vitals were Temp 98.7  HR 90  BP 137/88  RR
+PHYSICAL EXAMINATION ON PRESENTATION:  Temperature 95  heart
+[**2841 11 23**] 06:29PM   TYPE ART TEMP 96.26 TIDAL VOL 650 PEEP 8 O2 60
+[**2841 11 23**] 05:08PM   TYPE ART TEMP 96.26 RATES 16/ TIDAL VOL 650
+[**2841 11 23**] 03:54PM   TEMP 96.26 RATES 14/8 TIDAL VOL 600 PEEP 8
+[**3099 8 25**] 09:16AM BLOOD Type ART Temp 98.24 O2 Flow 90 pO2 63*
+VS   Temp 97.6 F  BP 156/80   HR 65  R 20  O2 sat 100% RA
+[**3103 2 26**] 07:26AM BLOOD Type ART Temp 98.6 pO2 57* pCO2 68*
+[**3103 3 2**] 01:38AM BLOOD Type [**Last Name (un) **] Temp 98.24 Rates /18 pO2 30*
+S: Temp: 96.4 BP: 148/63 HR: 74 RR: O2sat 100% AC 430/16/5/40%;
+[**3338 3 31**] 05:04AM BLOOD Type [**Last Name (un) **] Temp 96.44 Rates 16/ FiO2 40
+temperature of 97.4  pulse 78  blood pressure 181/98 
+revealed temperature was 97.6  heart rate was 60  blood
+In the ED: Temp 96.9  BP 160/86  HR 75  RR 16  99% RA.  CODE
+[**2649 7 15**] 06:02PM   TYPE ART TEMP 98.96000000000001 RATES /22 TIDAL VOL 450
+afebrile.  Temperature 98.3  heart rate 84  blood pressure
+PHYSICAL EXAMINATION:  Her temperature was 98.8  heart rate
+temperature of 96.1  a blood pressure of 178/60  a heart rate
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 96.5  pulse
+temperature spike on HD 42.8  diarrhea and fevers of 101.8
+temperature of 98.1  blood pressure 100/60  pulse 79 
+values. His temperature at time of this dictation were 97.8 &
+is as follows  vital signs temperature 98  heart rate 70
+is as follows  vital signs temperature 98  heart rate 70
+pulse 81  blood pressure 134/81  temperature 97.5 degrees F. 
+temperature 98.4 F.; pulse 87; blood pressure 117/60;
+[**2838 9 9**] 11:01PM BLOOD Type ART Temp 93.91999999999999 Rates 16/ Tidal V 650
+[**2838 9 10**] 01:35AM BLOOD Type ART Temp 97.16 Rates /20 Tidal V 600
+left temporparietal SDH max thickness 50.0 mm with a 2 mm midline
+PHYSICAL EXAMINATION:  Temperature 98.3  blood pressure
+grade temperatures approx 99 during the remainder of his
+to the Cardiac Care Unit was temperature 96.9 F.; blood
+Temp 96.8  BP 180 190/ 80 90  Pulse 72  Resp 16
+[**2619 9 29**] 02:07PM BLOOD Type ART Temp 98.41999999999999 Rates /17 pO2 64*
+[**2620 12 19**] 08:37AM BLOOD Type ART Temp 97.34 FiO2 26 pO2 65*
+[**2620 12 18**] 02:14AM BLOOD Type MIX Temp 98.78 O2 Flow 15 pO2 49*
+spike in temperature in the early AM of [**42.8 1**]. In order to give
+[**2694 2 18**] 11:54AM BLOOD Type ART Temp 96.98 pO2 103 pCO2 20*
+[**2694 3 14**] 05:16PM   TYPE ART TEMP 97.7 RATES /35 O2 95 PO2 55*
+right temporal cortex  35.42 x 1.7 cm mass in the left cerebellar
+Temp: 98.6 BP: 106/60  P: 91  RR: 18  Oxygen saturation: 97% on
+signs were temperature 97.6  blood pressure 167/63  pulse of
+No temp 75 112/63 19 100% RA
+as follows.  Temperature 98.4  heart rate 73  in sinus
+admission showed a temperature of 98.4  blood pressure
+temperature of 98.4  blood pressure 168/73  pulse 70 
+VS: temp 97.8  bp 151/48 >104/63  HR 55  RR 18  SaO2 100% on RA
+floor were as follows; temperature was 98.1  blood pressure
+where her temperature ranged from 97.8 102.8 and her right
+VITAL SIGNS:  Temperature 96.5  pulse 110  blood pressure
+(1) a right temporal grade I meningioma resected by [**First Name46.4 (NamePattern2) **]
+Also noted to have low grade temperature of 99 to 100 degrees
+PHYSICAL EXAMINATION:  Temperature 98.8  blood pressure
+temperature 98  heart rate 76 sinus rhythm  blood pressure
+[**2554 12 5**] 08:58PM BLOOD Type [**Last Name (un) **] Temp 96.98 Rates 20/0 Tidal V 450
+[**2554 12 5**] 11:08PM BLOOD Type [**Last Name (un) **] Temp 96.98 Rates 22/ Tidal V 450
+[**3324 9 28**] 04:06AM BLOOD Type ART Temp 96.61999999999999 Rates /2  pO2 94
+her baseline. Temperatures have increased to 97 after warm
+VS:  Temp: 96.8  BP: 108/52  HR: 83  RR: 16  O2sat: 95 RA
+[**2647 10 9**] 05:53PM BLOOD Type [**Last Name (un) **] Temp 98.06 pO2 41* pCO2 49*
+temperature of 98.2 F.; heart rate of 58; respiratory rate of
+temp wire placed successfully under flouro.  Pacing at 80 BPM's
+Temperature 97.2 F; heart rate 126 and then subsequently in
+VS: Temp 97.3  BP 120/58  HR 80  RR 18  O2 sat 94% RA
+PHYSICAL EXAMINATION:  Vital signs: Temperature 97.9  pulse
+[**3160 9 5**] 11:08AM BLOOD Type CENTRAL VE Temp 98.06 pO2 39* pCO2 38
+Temperature 96  heart rate 97  blood pressure 112/62 
+hypothermic with temp down to 93 and was placed on bearhuger
+with temp improving to 96 F. He was also found to be bradycardic
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 96.  Heart
+8/hr.  VS on transfer Temp: 98.1  Pulse: 87  RR: 18  BP: 117/86 
+Vitals: Temp 96.5  HR 108  BP 119/68  O2sat 95/3L NC
+[**3428 7 15**] 09:44PM BLOOD Type ART Temp 98.6 FiO2 100 O2 Flow 15
+temperature of 97.4  pulse 60  respiratory rate 16  blood
+pounds.  VITAL SIGNS:  Temperature 98  heart rate 60 sinus
+[**3029 5 8**] 11:58AM BLOOD Type ART Temp 98.24 Rates 10/1 PEEP 5
+He had a CT scan which revealed a temporal lobe mass and 33.8 cm
+Vital Signs: Temp 95.5  HR 61  BP 119/56  RR 22 93% 4L
+124/55  heart rate 88  temperature 98.4  respiratory rate 16
+In the ED  his VS on arrival were Temp oral 99  rectal 101  HR
+VS: Temp 97.7 ax BP 109/59 HR 99 RR 28 O2sat  98% on 100% NRB
+temperature was 95 degrees  temperature maximum was 95.2 
+[**3286 2 10**] 01:30AM BLOOD Type ART Temp 97.52 FiO2 97 O2 Flow 4
+[**3381 9 27**] 04:09PM BLOOD Type ART Temp 97.7 pO2 244* pCO2 43
+PHYSICAL EXAMINATION:  On admission temperature 96.7  pulse
+VS: Temp 98.7 HR 74 BP 124/75 RR 11 SAO2 90 96% 4L NC
+[**3401 7 11**] 04:06AM BLOOD Type [**Last Name (un) **] Temp 98.06 O2 Flow 2 pO2 51*
+In ED/Clinic  initial vital signs were:  Temperature 98.7 F 
+VITAL SIGNS: Temperature 98.0 F  blood pressure 140/93  pulse
+PHYSICAL EXAMINATION:  Temperature 97.3  heart rate 109 to
+PHYSICAL EXAMINATION: Temperature 96.8 F  pulse 65 
+GENERAL:  Temperature 98.6  heart rate 70  respirations 20 
+PHYSICAL EXAMINATION:  Vital signs  temperature 97.2  pulse
+temperature maximum of 97.7 F.; heart rate of 104 to 109;
+Temporary Central Access Floor: Flush with 50.0 mL Normal Saline
+Temp 98.3  HR 68  BP 66/35 on admission in triage  now 118/65;
+[**2894 5 5**] 01:31AM BLOOD Type [**Last Name (un) **] Temp 97.52 pO2 44* pCO2 37
+PHYSICAL EXAMINATION:  On admission  temperature was 98.8 F.;
+On arrival to the MICU  his VS were: Temp 90.5  HR 75  BP
+[**2630 8 3**] 05:16AM BLOOD Type [**Last Name (un) **] Temp 96.08000000000001 pO2 24* pCO2 49*
+Lbs  Temperature: 97.7  Resp. Rate: 20  O2 Saturation%: 100.
+VITAL SIGNS:  Temperature 98.2  heart rate 62  blood pressure
+PHYSICAL EXAM:  Temperature 97.6  pulse 106  blood pressure
+mouth.  Vital signs: Temperature 98  blood pressure 111/37 
+99.  Temperature was 97.  He was on the ventilator with FIMV
+[**3451 5 18**] 08:04PM BLOOD Type ART Temp 98.96000000000001 pO2 79* pCO2 41
+CONDITION ON DISCHARGE:  Temperature max 98.1  pulse 86 sinus
+PHYSICAL EXAMINATION:  Vital signs  temperature 99.0  pulse
+PHYSICAL EXAMINATION:  Temperature 96.9  blood pressure
+the patient had a temperature of 95.4  blood pressure 101/38 
+were stable with the temperature of 98.7  heart rate 68 
+120 mg IV succinylcholine. His initial VS were temp 96 rectal 
+arrival in the MICU  his temp dropped to 92  and he was placed
+[**2575 7 17**] 08:27PM   TYPE ART TEMP 98.96000000000001 PO2 124* PCO2 43 PH 7.39
+[**2575 7 31**] 02:42AM BLOOD Type ART Temp 98.96000000000001 FiO2 96 pO2 78*
+were 98.4 temperature  heart rate of 78  blood pressure
+PHYSICAL EXAM:  Temperature was 95.4  blood pressure was
+Temp: 97.6 HR: 80 BP: 100/66 Resp: 18 O(2)Sat: 100 Normal
+day. She had no po intake. She noted a low grade temp to 99 F
+[**3369 4 8**] 12:05PM BLOOD Type ART Temp 98.6 pO2 110* pCO2 46*
+PHYSICAL EXAMINATION:  Temperature 96.3 F  pulse 63  blood
+PHYSICAL EXAM:  Temperature 98.2  blood pressure 105/64 
+Vitals: Temp 97.2  HR 65  BP 189/56  RR 16  O2 Sat 100% RA
+Dr. [**Last Name (STitle) **]  vitals  temperature 96.1  heart rate 56  blood
+temp 99.0 HR 105 SBP 105/50 RR 20 SAo2 100% NC.
+VS: Temp: 96.8  BP: 118/63  HR: 94   RR: 22  O2sat  99% on RA
+VBG: ([**2812 6 17**] 05:40PM) BLOOD Type MIX Temp 97.52 pO2 50*
+Her initial vital signs in the ED were: temperature 98.1  blood
+temperature 97.3 degrees  blood pressure 116/50  pulse 62 
+In [**Hospital6 **]  patients vitals were Temp 98.6  HR 70 
+temps to 99 100. Unlikely PE (pt not tachycardic  on heparin
+[**2852 12 25**] 08:29AM   TYPE ART TEMP 96.61999999999999 RATES 20/12 TIDAL VOL 600
+temporary pacer wire placed which maintained a rate of 60.  His
+so his temporary pacemaker was discontinued on [**41.0 9**]. During
+[**2906 3 8**] 09:00PM   TYPE [**Last Name (un) **] TEMP 98.6 O2 40 PO2 161* PCO2 49*
+initiated with goal temp of 91.4  A full strength rectal aspirin
+temporal headaches.  Her primary oncologist is Dr. [**First Name39.2 (NamePattern1) **]
+VS: Temp: T 96.9  BP 110/60  HR 88 RR 16  100% RA
+temps and increased work of breathing x 50.0 days. Hx is per wife 
+She had temps and was started on Vanco and Cefipime on [**51.8 29**].
+leukocytosis and spiked a temperature within 53.6 hours of
+[**2801 6 22**] 07:31AM   TYPE ART TEMP 98.6 RATES 14/ TIDAL VOL 350
+[**2801 8 18**] 08:45PM BLOOD Type [**Last Name (un) **] Temp 97.16 pO2 27* pCO2 71*
+[**2801 10 10**] 06:05AM BLOOD Type ART Temp 98.24 pO2 67* pCO2 63*
+BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6 pCO35.6
+catheterization. Her vitals on transfer were temp 97.7  hr 96
+[**2933 2 13**] 05:49PM BLOOD Type CENTRAL VE Temp 96.98 Rates 32/ Tidal
+[**2933 2 14**] 03:39AM BLOOD Type ART Temp 97.16 Rates 28/2 PEEP 5
+[**2933 2 14**] 05:01PM BLOOD Type ART Temp 97.34 Rates 28/0 Tidal V 270
+[**2933 2 14**] 08:03PM BLOOD Type ART Temp 97.34 Rates 8/0 PEEP 10
+[**2933 2 15**] 12:22AM BLOOD Type ART Temp 97.16 Rates 28/0 PEEP 10
+[**2933 2 15**] 02:37AM BLOOD Type ART Temp 96.98 Rates 30/0 PEEP 10
+[**2933 2 15**] 04:12PM BLOOD Type ART Temp 96.98 Rates 32/ Tidal V 220
+[**2933 2 15**] 06:34PM BLOOD Type ART Temp 98.78 Rates 32/ Tidal V 230
+[**2933 2 16**] 05:03AM BLOOD Type ART Temp 98.96000000000001 FiO2 60 pO2 120*
+[**2933 2 16**] 09:14AM BLOOD Type ART Temp 98.24 Rates 32/ Tidal V 230
+[**2933 2 16**] 05:09PM BLOOD Type ART Temp 98.06 PEEP 5 pO2 78*
+[**2933 2 17**] 04:48AM BLOOD Type ART Temp 98.96000000000001 FiO2 50 pO2 71*
+[**2933 2 17**] 08:45PM BLOOD Type ART Temp 98.96000000000001 pO2 80* pCO2 82*
+[**2933 2 18**] 04:14PM BLOOD Type ART Temp 97.34 Rates 32/ Tidal V 200
+[**2933 2 18**] 11:06PM BLOOD Type ART Temp 98.24 PEEP 5 pO2 69*
+[**2933 2 19**] 05:08AM BLOOD Type ART Temp 97.52 PEEP 5 FiO2 50 pO2 62*
+[**2933 2 19**] 01:57PM BLOOD Type ART Temp 98.41999999999999 Rates 32/2 PEEP 5
+[**2933 2 19**] 04:40PM BLOOD Type ART Temp 98.06 Rates 32/ PEEP 5
+[**2933 2 19**] 07:40PM BLOOD Type ART Temp 97.16 PEEP 5 FiO2 50
+[**2933 2 20**] 12:01AM BLOOD Type ART Temp 96.8 PEEP 5 FiO2 50 pO2 67*
+[**2933 2 20**] 03:57AM BLOOD Type ART Temp 98.41999999999999 PEEP 5 FiO2 50 pO2 87
+[**2933 2 21**] 12:28PM BLOOD Type ART Temp 96.98 Rates 32/ pO2 68*
+[**2933 2 21**] 06:00PM BLOOD Type ART Temp 98.24 Rates 32/2 PEEP 2
+[**2933 2 22**] 03:31PM BLOOD Type ART Temp 97.88000000000001 Rates 32/ PEEP 4
+[**2933 2 23**] 07:55PM BLOOD Type ART Temp 95.53999999999999 Rates 32/0 FiO2 50
+[**2798 10 3**] 09:21PM   TYPE ART TEMP 98.06 PO2 122* PCO2 33* PH 7.37
+temporary LIJ  which was subsequently pulled on [**44.6 29**] when the
+Temp 95.4 Pulse 66  BP 96/53  RR 18  Satting 98% on RA
+[**3309 10 25**] 10:29AM   TYPE ART TEMP 98.78 O2 FLOW 4 PO2 86 PCO2 29*
+[**3309 10 25**] 07:09PM   TYPE ART TEMP 97.34 PO2 114* PCO2 28* PH 7.37
+[**3309 10 25**] 07:09PM   TYPE ART TEMP 97.34 PO2 114* PCO2 28* PH 7.37
+temperature of 96.8 F.; blood pressure 129/65; heart rate 72;
+temperature.  Heart rate 98.  Blood pressure 120/70.
+PHYSICAL EXAMINATION:  Temperature is 97.3 F.; blood pressure
+[**3419 10 7**] 09:06PM   TYPE ART TEMP 98.06 O2 FLOW 6 PO2 70* PCO2 37
+with a temperature of 98  a blood pressure of 112/87  a heart
+PHYSICAL EXAMINATION:   On transfer  temperature 98.8  pulse
+Temp 99 BP 133/59 HR 79 RR 26 O2 sat 99% RA
+was as follows:  Vital signs were temperature 98.2  heart
+temperature decreased at 42.8 am.  The blood pressure was 114/42.85
+93  temperature 97.4  blood pressure 104/52  100% on room
+temperature 98.0  pulse 86  blood pressure 96/52  respiratory
+  VBG: TEMP 97.7 O2 FLOW 2 PO2 20* PCO2 32* PH 7.49* TOTAL
+PHYSICAL EXAMINATION:  Included a temperature of 98  heart
+PHYSICAL EXAMINATION:  Temperature 98.4  heart rate 88  blood
+was comfortable. Temperature maximum was 98.6 and heart rate
+VS: Temp: 96  BP: 149/83 HR: 97 RR: 16 O2sat: 97%
+[**2640 10 18**] 08:12PM BLOOD Type ART Temp 96.98 pO2 65* pCO2 39
+Temperature was 97.1  blood pressure was 87/48  pulse was 74 
+temperature 97.1  blood pressure 150/90  pulse 86 
+Vitals: Temp 98.1 HR 70 BP 100/68 Resp 18 O2 Sat 98%RA.  Vitals
+Upon arrival in the ED  temp 97.6  HR 68  BP 132/68  RR 14  and
+temperature of 98.8  blood pressure 126/52  heart rate 80 
+VS   Temp 98 F  105/40 BP   91 HR   18 R   O2 sat 98% 2L
+[**2760 6 17**] 09:54AM BLOOD Type [**Last Name (un) **] Temp 98.6 pO2 38* pCO2 57*
+[**3230 1 18**] 11:03PM   TYPE ART TEMP 98.96000000000001 RATES 18/18 PEEP 5 O2 40
+[**3221 6 29**] 03:57PM   TYPE ART TEMP 98.96000000000001 RATES /14 TIDAL VOL 400
+[**3221 6 29**] 10:54AM   TYPE ART TEMP 93.91999999999999 PO2 210* PCO2 49* PH 7.33*
+PHYSICAL EXAMINATION:  On admission  temperature was 98.6 F.;
+36.1. Temperature: 98. Resp. Rate: 16. Pain Score: 0. O2
+PHYSICAL EXAMINATION:  Temperature 97.6  pulse 46  blood
+[**3032 1 4**] 05:09PM BLOOD Type ART Temp 98.96000000000001 Rates 18/0 Tidal V 380
+[**3392 3 22**] 05:20PM BLOOD Type ART Temp 98.06 pO2 65* pCO2 65*
+[**3392 3 27**] 04:16AM BLOOD Type MIX Temp 98.06 Rates 25/1 Tidal V 280
+VS   Temp 97.1 F  BP 134/66  HR 65  RR 18  99% on RA
+[**2696 5 11**] 07:39AM BLOOD Type [**Last Name (un) **] Temp 97.16 O2 Flow 2 pO2 65*
+temp dialysis line was again removed [**35.6 135.6**] and grew pseudomonas 
+temperature 98.0  blood pressure 117/32  respiratory rate 23 
+were a temperature of 97.1  pulse of 41 beats per minute and
+temperature of 98.1 degrees  heart rate of 78 and sinus
+Temperature was 98.7  blood pressure 143/69  heart rate 66 
+INITIAL PHYSICAL EXAMINATION:  Temperature is 98.7  blood
+[**3247 10 27**] 05:28AM BLOOD Type ART Temp 98.6 Rates /20 FiO2 60 O2
+[**3247 10 27**] 05:50PM BLOOD Type ART Temp 98.6 Rates /16 FiO2 50 O2
+[**3247 10 29**] 01:53AM BLOOD Type ART Temp 97.52 O2 Flow 4 pO2 83*
+temperature increase of 36.5 degrees F with concurrent shortness
+and had a low grade temp of 99 (she normally runs 96 97). She
+VS: Temp: 98 BP: 135/74 HR: 88 RR: O2sat 100% on AC 50% FiO2  5
+VS: temp 97.2  bp 130/97  HR 82  RR 16  SaO2 100% on RA
+PHYSICAL EXAMINATION:  Temperature 97.7  heart rate 93  blood
+EXAMINATION ON TRANSFER:  Temperature is 97.4  T max is 101.3
+PHYSICAL EXAMINATION:  Temperature 96.7  heart rate 140 to
+CONDITION ON DISCHARGE:  Temperature maximum was 97.5  his
+TEMP 98.5   PULSE 65  177/65   RESPIRATORY RATE 15   99% 3L
+[**2958 3 1**] 01:04AM BLOOD Type ART Temp 97.34 Rates 16/ Tidal V 450
+temperature 97.4  pulse 82  blood pressure 138/60 
+temperature 98.4  heart rate 104  blood pressure 100/68 
+temperature of 97.  Heart rate 86.  Blood pressure 150/80.
+temperature of 97.0  blood pressure 130/40  respiratory rate
+In the ED  her temperature was 97.2  pulse of 84  blood
+temperature of 97.1 with a pulse of 77 beats per minute and
+temperature 97.4  blood pressure 97/47  heart rate 79 
+PHYSICAL EXAMINATION:  Vital signs: temperature 98.2 F  heart
+[**3138 11 1**] 11:52PM BLOOD Type ART Temp 97.34 FiO2 90 pO2 97
+temperature 96.8 degrees Farenheit  blood pressure 97/76 
+[**2760 8 22**] 12:48PM BLOOD Type ART Temp 96.44 FiO2 35 O2 Flow 3
+[**2547 8 31**] 10:46PM   TYPE ART TEMP 96.26 PO2 81* PCO2 46* PH 7.32*
+[**3207 8 26**] 09:30PM   TYPE [**Last Name (un) **] TEMP 97.88000000000001 PO2 39* PCO2 52* PH 7.27*
+PHYSICAL EXAMINATION:   On admission  temperature 94.0 F.;
+[**3413 6 23**] 12:31AM BLOOD Type ART Temp 97.16 Rates /4  Tidal V 500
+examination revealed temperature was 98.4  heart rate was 66 
+PHYSICAL EXAMINATION:  Her temperature is 96.6  her heart
+BLOOD GASES Type Temp Rates Tidal V PEEP O35.6 O35.6 Flow pO35.6 pCO35.6 pH
+PHYSICAL EXAMINATION:  Temperature of 98.0  heart rate 92 
+Care Unit  vital signs showed temperature 92.5  pulse 70 
+PHYSICAL EXAMINATION:   Temperature 97.8 F.; blood pressure
+on admission revealed temperature was 97.7  heart rate was
+[**2923 11 12**] 09:23PM BLOOD Type ART Temp 98.6 Rates /20 pO2 65*
+revealed the patient was afebrile  temperature 97.7  blood
+temperature 98.4  blood pressure 112/74  pulse 60 
+[**2691 8 1**] 10:15PM   TYPE ART TEMP 97.34 RATES 14/ TIDAL VOL 500
+VS: Temp 98.9  HR 104  BP 122/60  RR 18  90% on RA
+temperature of 97.4  heart rate 80  blood pressure 140/80 
+distress.  Vital signs:  Temperature is 96.3  blood pressure
+temperature of 97.5  blood pressure of 100/66  pulse of 91 
+temperature of 94.4  pulse 96 and he was sating 98%.  In
+PHYSICAL EXAMINATION:   Temperature 97.0 F.; pulse 83; blood
+VITAL SIGNS:  On examination here temperature is 97.9  pulse 76 
+Temp 98.0  BP 126/74  HR 61  Resp 18(sat 98% on RA)
+showed vital signs temperature of 97.8  blood pressure
+[**3060 5 16**] 01:22PM BLOOD Type ART Temp 98.96000000000001 PEEP 5 FiO2 40
+  Temporal arteritis   biopsy dx 44.6 years ago  presented with HA 
+Pt also with low grade temperaures 99 100 WBC count up to [**Numeric Identifier 7828**].
+Vitals prior to transfer: Temp 98.6  72  19  122/54  93% on 6
+VS: Temp: 97.8  BP:150/58 HR:70 RR: 25 O2sat 100
+[**3151 1 24**] 07:04PM BLOOD Type ART Temp 98.06 pO2 72* pCO2 65*
+  Temporal arteritis   biopsy dx 44.6 years ago  presented with HA 
+on admission revealed his temperature was 99 degrees
+VS: Temp: 98.3 BP: 96/59 HR: 83 RR: 18 O2sat 100% on RA.
+PHYSICAL EXAMINATION:  Vital signs: temperature of 96.4 F;
+PHYSICAL EXAMINATION:  Temperature 96.4  pulse 80  blood
+[**3493 2 10**] 05:45PM BLOOD Type ART Temp 98.96000000000001 pO2 141* pCO2 43
+signs were temperature 98.1  pulse 64  blood pressure 164/73 
+PHYSICAL EXAMINATION:  On admission  temperature 98.8 F 
+PHYSICAL EXAMINATION:  On admission  temperature 98.8 F 
+temperature of 98.6  a heart rate of 90  a blood pressure of
+signs were as follows:  Temperature 98.2  pulse 83 
+[**3192 11 27**] 02:17PM   TYPE ART TEMP 97.16 PO2 116* PCO2 34* PH 7.41
+42.8.Glioblastoma multiforme of left temporoparietal lobe [**42.8 /2877**]
+PHYSICAL EXAMINATION:   On admission  temperature 94.2 F.;
+temperature of 98.1 F  blood pressure of 102/80  heart rate of
+BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6 pCO35.6
+signs with temperature of 97.4 F.; heart rate 70; blood
+[**3375 11 7**] 10:33PM   TYPE ART TEMP 97.52 RATES /18 O2 FLOW 2
+was 112/80  heart rate was 90  and temperature was 99.  In
+course  his temperature was 97.2  blood pressure 148/72 
+Temp 98.5  BP 104/67  HR 60  RR 18  O2 sat 94% on 3L NC
+[**2866 1 9**] 09:34PM   TYPE [**Last Name (un) **] TEMP 98.06 RATES /14 TIDAL VOL 500
+temperature of 98.6  blood pressure 138/80  pulse 77 
+Vital Signs: Temp 98.4  BP 130/60  HR 84  RR 20  SaO2 94% RA 
+temp 96.5  BP 171/74  HR 58  RR 18  sats 99% on 2 liter oxygen
+[**2854 2 25**] 04:53PM   TYPE ART TEMP 97.88000000000001 PO2 241* PCO2 48* PH 7.35
+Temperature 96.2  no heart or breath sounds on ascultation.
+signs with temperature of 98.5  heart rate 99  blood pressure
+temperature of 94.  In the Emergency Room the patient had
+120s to 160s and temperature to 97.3 rectally.  The white count
+admission is temperature 97.3 with heartrate of 60 to 70 
+temperature up until approximately 75.2 to 48 hours prior to
+hour caregiver at home noted her temp to be up to [**Age over 90 **] yesterday.
+his temperature was 98.8  blood pressure was 100/55  pulse
+Vital signs: Temperature 97.8  blood pressure 104/68  heart rate
+Temperature 96.6  heart rate 70  blood pressure 133/42 
+PHYSICAL EXAMINATION: Temperature 95 F orally in the
+admission revealed temperature 98.8  blood pressure 215/86 at
+following:  Temperature 97.7  blood pressure 101/45  pulse
+[**3207 3 16**] 07:17AM BLOOD Type ART Temp 98.06 pO2 44* pCO2 31*
+Please make sure to take your temperature 35.6 3 times a day.  If
+[**3100 11 30**] 08:02PM BLOOD Type ART Temp 96.98 Rates 16/1 Tidal V 550
+VS: Temp: 96.2 BP:77 /56 HR: 89 RR: 25 O2sat 93% on 100% NRB
+ADMISSION PHYSICAL EXAMINATION:  Temperature 97 degrees 
+VS temp 97.3 HR 93 SR B/P 105/81  RR 18 O2 Sat 98% 2lNC at rest
+Temperature was 96.8  blood pressure 148/110  heart rate 120 
+4. ID:  Patient spiked temperature on [**41.0 18**] and [**41.0 19**].  UA was
+arousable.  Vitals:  Temperature 97.7  blood pressure 114/80
+PHYSICAL EXAMINATION:  Temperature 97.1  heart rate 105 
+Temp 97.4 P113 BP 76/54 (pre levophed) RR 19 O2 sat 96 NC
+temperature was 97 degrees Fahrenheit  his pulse was 64  his
+BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6 pCO35.6
+notable for a temperature of 96.7 upon arrival  a heart rate
+PHYSICAL EXAMINATION:  Temperature 95.6  heartrate 80  blood
+patient's temperature was 98.4  respiratory rate was 16  and
+temperature of 98.2 F.; blood pressure of 114/56; pulse of
+identified. Temporary HD catheter was placed on [**50.0 5**]. Pt
+vital signs are a temperature of 98.6  blood pressure 149/76 
+examination the patient had a temperature of 99  blood
+[**3204 8 6**] 06:55PM BLOOD Type ART Temp 96.98 Rates 14/5 Tidal V 500
+had a temperature of 97.7  pulse 57  blood pressure 102/57 
+at [**Hospital3 **] were BP: 84/48  HR: 137  RR: 16  Temp: 97.5 PO  O2
+PHYSICAL EXAMINATION:  Temperature current is 98.7  heart
+placed and temp rose to 85.46000000000001 after 1.5 hours. His ETT was pulled
+PHYSICAL EXAM ON ADMISSION:  Temperature 97.6  pulse 70 
+Vitals:  Temperature 97.7  pulse 90  respiratory rate 20 
+[**3432 6 14**] 08:51PM   TYPE ART TEMP 98.06 O2 FLOW 3 PO2 40* PCO2 29*
+PHYSICAL EXAMINATION:  Temperature 98.6  heart rate 101  BP
+where upon arrival temp 98.3  HR 60s  BP 114/64  RR 18  and 100%
+with a temperature of 97 degrees Fahrenheit  blood pressure
+PHYSICAL EXAMINATION:  Temperature 95.8  heart rate is 60 
+revealed the patient's temperature was 97.3 degrees
+[**3055 2 21**] 08:20AM BLOOD Type [**Last Name (un) **] Temp 96.98 pH 7.42
+pulse 73  temp 97  RR 12  SaO2 96% on RA. She was given IVF NS
+VS: temp 98.9  bp 107/62  HR 81  SaO2 100% on CPAP/PS
+temperature 94.1 F. measured orally; heart rate 92; blood
+female in no acute distress.  Temperature is 98.6  blood
+PHYSICAL EXAMINATION:  Temperature is 98.5  heart rate 59 to
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.5 F  blood
+[**2720 11 3**] 03:09AM BLOOD Type ART Temp 97.88000000000001 Rates /14 PEEP 5
+[**2627 6 29**] 02:47PM BLOOD Type ART Temp 98.41999999999999 O2 Flow 3 pO2 105
+temperature 97.8 heart rate 68  respiratory rate 20  blood
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.3  blood
+temperature of 97.9  pulse of 80  blood pressure 170/80 
+examination showed a temperature of 97.  Heart rate of 120
+revealed temperature was 98.9  heart rate was 89  blood
+Temp: 96.7 ax BP: 132/48 HR: 57 RR: 20 O2sat 99% 3L  95% RA
+PHYSICAL EXAMINATION:  Temperature 97.5  heartrate 48  blood
+[**2594 1 21**] 07:59PM   TYPE ART TEMP 93.02 O2 FLOW 2 PO2 54* PCO2 27*
+EXAMINATION:  Temperature 96.0  heart rate 72  blood pressure
+temperature 96.1  blood pressure 120/62  pulse 78 and
+PHYSICAL EXAMINATION:  Temperature 98.9 F.; pulse 85 to 112;
+temporal leads into  high frequency high amplitude 89.6 ms [**First Name (Titles) 20425**]
+revealed temperature was 98.6  heart rate was 80  blood
+revealed the patient to be afebrile  temperature 97.3  blood
+[**2792 9 12**] 02:42PM BLOOD Type ART Temp 97.88000000000001 pO2 120* pCO2 28*
+floors  she had low grade temperatures (99 100) for another day.
+Temperature 97.8  heart rate 82  blood pressure 140/80 
+revealed vital signs with a temperature of 97  heart rate was
+VS  temp 97.2  BP 106/54 HR 104  RR 20  O2sat 96% on Room air
+PHYSICAL EXAM ON ADMISSION:  Temperature 97.7  heart rate of
+pulse 88  respirations 28  temperature 97  height 6 ft 0 in 
+Temporary Central Access Floor:    Flush with 50.0 mL Normal
+VS: Temp: 90.0 rectal  BP: 125/40  HR: 70  RR: 18  O2sat: 100 on
+ED course:  Patient had temp of 94.2 and was placed on a bair
+unresponsive with core body temperature of 89.6 degrees celsius
+underwent temporal lobe resection approximately 64.4 mo. ago for
+Temperature maximum 99.8  temperature current 98.2  blood
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 99.0  heart
+PHYSICAL EXAMINATION:  Temperature 97.6  heart rate 100 
+[**3096 3 10**] 01:06AM BLOOD Type ART Temp 96.98 pO2 79* pCO2 58*
+revealed temperature was 98  heart rate was 96  blood
+PHYSICAL EXAMINATION:  Vital signs: Temperature 98.2  heart
+[**3470 8 30**] 12:20PM BLOOD Type ART Temp 97.7 Rates /26 PEEP 5
+[**3470 8 30**] 12:56PM BLOOD Type ART Temp 97.7 Rates /28 PEEP 12
+[**3470 8 30**] 03:12PM BLOOD Type ART Temp 98.41999999999999 Rates /12 PEEP 12
+[**3470 8 31**] 03:18PM BLOOD Type ART Temp 98.41999999999999 Rates /18 Tidal V 50
+[**3470 8 31**] 10:08PM BLOOD Type ART Temp 98.78 FiO2 40 pO2 73*
+[**3470 8 31**] 08:02AM BLOOD Type ART Temp 96.8 PEEP 12 pO2 104
+VS: temp 98.2  HR 95  bp 142/73  RR 22  SaO2 98% on RA  NIF  10
+examination is as follows:  Temperature 97.9  heart rate 69
+Vitals: Temp 97.5 HR 81 BP 143/47 RR 20 Sat 98% on 2L.
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Temperature 98.1  blood
+PHYSICAL EXAM ON ADMISSION:  Temperature 98.2  heart rate 89 
+VITAL SIGNS:  Temperature 95.18  heart rate 90  blood pressure
+PHYSICAL EXAMINATION:  Temperature 97.7  pulse 60 to 74 
+PHYSICAL EXAMINATION:  On arrival  temperature is 96.8  pulse
+VS   Temp 98.7 F  BP 99/60  HR 72  R 14  O2 sat 94% RA
+the Medicine Floor revealed a temperature of 98.1  heart rate
+revealed temperature was 97.3  blood pressure was 160/78 
+Temp Max: 99 Temp current: 98.3 HR: 61 78 RR: 18 BP:
+PHYSICAL EXAM ON ADMISSION:  Temperature 96.8  blood pressure
+temperatures (99 100.3) on presentation with a leukocytosis and
+VS: temp: 98 bp 140/80 hr: 86 rr: 20 98% rm air
+ganglia and right temporal lobe. 42.8 mm shift of normally midline
+PHYSICAL EXAMINATION:  Temperature is 98.1  blood pressure
+maximum was 100.6  temperature 97.4  respiratory rate 19  94%
+presentation revealed temperature was 97.5  blood pressure
+temperature was 94.2  blood pressure 169/63  pulse 56 
+VS: Temp: 97.7 BP: 135/61 HR: 107 RR: 15 O2 sat: 97% on 2L Nc
+VS: Temp: 98.4 BP: 144/61 HR: 107 RR: 18 O2 sat: 98% RA
+PHYSICAL EXAMINATION:  On admission  temperature 98.6  pulse
+SERVICE:  Vital signs:  Temperature 98.4  heart rate 91 
+PHYSICAL EXAMINATION:  On admission  temperature 97  blood
+[**3294 5 29**] 11:56PM   TYPE ART TEMP 98.96000000000001 RATES [**7 23**] TIDAL VOL 700
+[**3294 6 2**] 04:08AM BLOOD Type ART Temp 98.78 pO2 84* pCO2 41
+PHYSICAL EXAMINATION:  Temperature 98.3  pulse 117  blood
+PHYSICAL EXAMINATION:  On admission  temperature 94.5  blood
+temporal lobe epilepsy. Followed by Dr. [**First Name39.2 (NamePattern1) **] [**Last Name (un) 22329**] in
+temporary HD line in place after 37.4 days of HD.  He was seen by
+arrival: temp 99  HR 115  BP 60/40 97% NRB. BP's ranged from
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.0 F  pulse
+[**3062 9 5**] 02:45PM BLOOD Type ART Temp 98.06 Rates 16/ Tidal V 550
+Pt was extubated [**3064 9 18**]. Recent vitals: temp 98. Pulse 77. BP
+Pt was extubated yesterday. Recent vitals: temp 98. Pulse 77. BP
+temperature of 96.8 F  a blood pressure of 130/70  pulse of
+[**3122 8 14**] 02:36AM BLOOD Type [**Last Name (un) **] Temp 98.24 Comment GREEN TOP
+Upon arrival in the ED  temp 98.3  HR 70  BP 75/45  and pulse ox
+[**2501 12 22**] 11:22AM BLOOD Type ART Temp 98.24 Rates 16/ Tidal V 270
+[**2501 12 24**] 04:10AM BLOOD Type ART Temp 96.98 pO2 135* pCO2 56*
+[**2501 12 30**] 01:20PM BLOOD Type ART Temp 98.06 FiO2 50 pO2 103
+[**2501 12 31**] 02:57PM BLOOD Type ART Temp 97.88000000000001 Tidal V 350 FiO2 50
+INITIAL PHYSICAL EXAMINATION:  Temperature 97  blood pressure
+grade temps 99 100 consistently over past month while at NH  HR
+In the ER he was found to have Temp 98 F PO  HR 160  BP 114/67 
+Temp 97.7  HR 108  BP 107/67 RR 18 SpO2 99%
+[**2971 3 22**] 01:11PM BLOOD Type [**Last Name (un) **] Temp 98.78 Rates 14/0 Tidal V 600
+temperature was 96.5  heartrate 68  blood pressure 90/44 
+on admission revealed a temperature of 98  pulse of 100 
+PHYSICAL EXAMINATION ON TRANSFER:  Temperature of 96.3  pulse
+temperature was 97.4  pulse of 94  blood pressure of 140/69 
+the patient had a temperature of 97.3  pulse 72  blood
+revealed vital signs with a temperature of 97.3 degrees
+as follows; vital signs show temperature 99  heart rate 88
+temperature of 97.6 F.; blood pressure 120/70; heart rate 88;
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.6  blood
+VS: Temp: 97.6 BP: 145/75 HR: 82 RR: 24 O2sat 94% FM
+VS   Temp 98.2 F 116/58 BP  88 HR  18 R  99 O2 sat % RA
+Lactate 2.8 to 0.9 with fluids. Low grade temp to 99 max in ER.
+[**3336 4 9**] 10:41AM BLOOD Type ART Temp 98.78 pO2 50* pCO2 69*
+[**3336 4 9**] 06:19AM BLOOD Type ART Temp 98.06 Rates 40/ Tidal V 550
+[**3336 4 9**] 05:01AM BLOOD Type ART Temp 98.78 Rates 46/ Tidal V 550
+[**3336 4 4**] 08:40PM BLOOD Type ART Temp 98.06 Rates 22/0 Tidal V 700
+PHYSICAL EXAMINATION:   Temperature 97.6 F.; heart rate 82;
+[**3454 1 14**] 08:50PM BLOOD Type ART Temp 96.98 Rates /22 FiO2 100
+temperature 93 94.  [**Month (only) **] pressure 95 125/52 67  pulse of
+Room her temperature was 93.5  [**Location (un) **] pressure 199/86 
+notable for a temperature of 96.8  pulse 76  [**Location (un) **] pressure
+PHYSICAL EXAM ON ADMISSION:  Temperature 97.3  blood pressure
+Temp 96.1  HR 87  BP 143/82  RR 17  O2 sat 95RA
+had a temperature of 97.9  heart rate 74  respiratory rate
+VITALS: Temp 98.3  HR 88  RR 20  weight 213lbs.
+found to have a temperature of 97 with blood pressures in the
+patient's temperature was 97.9  blood pressure 108/96  pulse
+Vitals: Temp: 96.9 HR:72 regular BP: 99/49 Resp:16 O2Sat: 96% RA
+His temperatures remained at low grade.  On day 59.0 of his
+In the ED  her vital signs were: Temp 97.5  HR 102  BP 151/63 
+Vitals Temp 98.4 Pulse 92  BP 116/67  RR 27  99% on 2L NC
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 97.6  blood
+dilated but reactive pupils  temp of 95.2 axillary; BP 120/61.
+Temp: 98.4 HR: 80 BP: 154/88 Resp: 14 O(2)Sat: 98 Normal
+ temp 98.6  BP 167/70 (lying)   > 166/80 (sitting)  HR 100  R
+PHYSICAL EXAMINATION:  Temperature 97.3 F.; blood pressure
+Vitals: Temp 97.8 HR 76 BP 162/76 RR 18 sats 100% on 4L
+On discharge she was afebrile with a temperature of 95.8  60
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 96.0  blood
+Temperature 99.0  heart rate 105  blood pressure 112/63 
+VS: Temp: 98.1  BP: 108/60  HR: 76  RR: 18  O2sat: 99 2L
+[**3359 10 20**] 04:10AM BLOOD Type ART Temp 97.16 pO2 142* pCO2 44
+PHYSICAL EXAMINATION:  Temperature 97.2 F  heart rate 113 
+[**2714 11 17**] 08:22PM   TYPE ART TEMP 98.6 RATES /8  TIDAL VOL 800
+[**2714 11 17**] 09:19PM   TYPE ART TEMP 98.6 PO2 154* PCO2 98.6 PH 7.35
+EXAM ON ADMISSION:  Temperature 97.6  heart rate 120 90 
+[**2508 3 4**] 02:07AM BLOOD Type ART Temp 96.98 pO2 91 pCO2 16*
+[**2508 3 4**] 04:16AM BLOOD Type ART Temp 98.96000000000001 pO2 111* pCO2 19*
+[**2508 3 4**] 06:51AM BLOOD Type ART Temp 98.96000000000001 pO2 93 pCO2 20*
+[**2508 3 4**] 10:30AM BLOOD Type MIX Temp 97.34 pO2 47* pCO2 21*
+[**2508 3 4**] 12:05PM BLOOD Type ART Temp 95.72 FiO2 98 O2 Flow 3
+[**2508 3 4**] 06:42PM BLOOD Type ART Temp 97.16 FiO2 97 O2 Flow 3
+[**2508 3 4**] 10:24PM BLOOD Type ART Temp 97.88000000000001 O2 Flow 6 pO2 90
+PHYSICAL EXAMINATION:  Temperature 97.8  pulse 50  blood
+revealed vital signs temperature 97.9  heart rate 108  blood
+VS: Temp: 98.3  BP: 120/70 HR: 83 RR: 16  sat 96RA
+VS: Temp: 97.1  BP: 83/32  HR: 70  RR: 15 17  O2sat 100 on 2L NC
+temporary hemodialysis catheter with a 59.9 French tunneled
+VS   Temp 98.5 F  83 HR   15 RR   116/42 BP   99 O2 sat % 2L
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 99  blood
+On arrival to ED  vitals temp 97.7  HT 84  BP 155/74  RR 17 
+PHYSICAL EXAMINATION:   Vital signs with temperature 98.9 F.;
+MICU where the BP was found to be 98/76 and temp 97 rectal.
+temporarily.  He returned to the OR on [**35.6 1**] for abdominal
+temperature of 97.3  heart rate was 63 (sinus)  blood
+temperature at that time was 98.8 and arterial blood gas at
+vital signs revealed a temperature of 98.7  heartrate 77 
+temperature was 98.8 F and her peak flow was 75 with a
+revealed a temperature of 98.7 F  pulse 77  blood pressure
+VITAL SIGNS:  temperature 98.4  heart rate 97  sinus
+PHYSICAL EXAMINATION:  Temperature 97.2 F.; blood pressure
+[**2700 10 2**] 07:32PM   TYPE ART TEMP 93.74 RATES 12/0 TIDAL VOL 450
+VS   Temp 97.0 BP 139/65 HR 78  RR 18  100% 2L oxygen 
+Temp 96.0  BP 129/51  HR 72  RR 16  O2sat 97% on 4L NC
+temperature was 98.8  heart rate 124  blood pressure 150/80 
+Surgery service  temperature was 98.0  pulse 62  respiratory
+temporary groin line on [**33.8 24**] and  after 48 hours of no
+the patient had a temperature of 97.9  blood pressure 132/66 
+temperature of 98.6  pulse of 84  blood pressure 109/54 
+[**2610 12 10**] 05:47AM BLOOD Type ART Temp 95.9 pO2 146* pCO2 33*
+Temp 98.1  BP 133/84  HR 80  RR 21  O2 sat: 100% on 2L NC
+admission  temperature 97.3  heart rate 85  blood pressure
+[**2592 2 10**] 09:29PM BLOOD Type ART Temp 97.16 pO2 66* pCO2 71*
+temperature 98.  Pulse 86.  Normal sinus rhythm.  Respiratory
+DISCHARGE PHYSICAL EXAMINATION:  Temperature 98.5  74 and
+PHYSICAL EXAMINATION:  The temperature was 97  heart rate 74 
+then chest pain free. In the ED  vitals were temp 95.3  HR 72 
+VS   temp 95.8  HR 74  bp 144/90  RR 20  SaO2 97% on RA  wt 144
+was afebrile on admission.  Temperature 98.2  blood pressure
+temperature was 95.8 degrees Fahrenheit  her blood pressure
+temperature was 97.7  93 pulse and regular  blood pressure
+signs temperature 98.9  heart rate 100  blood pressure
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.0  heart
+[**3451 10 16**] 11:17PM   TYPE ART TEMP 91.4 RATES 22/ TIDAL VOL 609
+[**3451 10 18**] 08:32AM BLOOD Type ART Temp 96.98 Rates 12/14 PEEP 5
+[**3451 10 18**] 03:37AM BLOOD Type ART Temp 95.0 Rates [**11 13**] Tidal V 450
+[**3451 10 18**] 01:57AM BLOOD Type ART Temp 93.74 Rates [**11 14**] Tidal V 450
+[**3451 10 17**] 11:44PM BLOOD Type ART Temp 92.48 Rates [**11 17**] Tidal V 450
+[**3451 10 17**] 10:36PM BLOOD Type ART Temp 91.94 Rates [**11 15**] Tidal V 450
+reached temperature goal of 91.4 C.  48hr EEG showed possible
+13; oxygenation 98% on room air; temperature 98.  General:
+temperature 98.6  blood pressure 159/98  heartrate 82 
+PHYSICAL EXAMINATION:  On presentation  temperature 97.0 F.;
+[**2816 12 31**] 01:48PM BLOOD Type ART Temp 98.06 Tidal V 600 PEEP 5
+revealed the patient's temperature maximum was 98.6 degrees
+she had rigors and a temp of 99.  Her WBCs were found to be
+intact.  The patient's temperature was 95.8 degrees
+temperature 98.9 F.; heart rate 85; blood pressure 127/68; O2
+Care  Unit  the  patient's  temperature  was 98.9 degrees Fahrenheit  her blood
+VS: Temp 96.3 BP 132/80 HR 65 RR18 O2sat 99%RA
+PHYSICAL EXAMINATION:  Vital signs: temperature 96.4 F  pulse
+temperature of 98.3  blood pressure of 156/80  heart rate
+PHYSICAL EXAMINATION:  Temperature 98.1  blood pressure
+temperature of 98.9  is currently 97.5. heart rate was 72 
+temperature 98.0 F.; heart rate 79 and sinus rhythm; blood
+PHYSICAL EXAMINATION:   On admission  temperature 98.2 F.;
+PHYSICAL EXAMINATION:  Temperature 97.5  pulse 84  blood
+with a maximum temperature of 98.5  blood pressure 117/60 
+  BLOOD GASES Type Temp Rates Tidal V PEEP FiO35.6 O35.6 Flow pO35.6 pCO35.6
+PHYSICAL EXAM AT ADMISSION:  Temperature 94.6  heart rate 102
+PHYSICAL EXAMINATION:  Temperature 98.8  pulse 93 101  blood
+temperature with leukocytosis of 59.0 000 with a HCT drop from
+[**2705 1 7**] 09:43AM   TYPE ART TEMP 98.78 O2 75 PO2 59* PCO2 37
+PHYSICAL EXAMINATION:   On admission  temperature 98.5 F.;
+PHYSICAL EXAMINATION:  Temperature 98.6 F  heart rate 63 
+On physical exam  temperature is 97.2  heart rate 68  blood
