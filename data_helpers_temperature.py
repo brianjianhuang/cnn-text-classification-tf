@@ -9,8 +9,11 @@ def clean_str(string):
     Tokenization/string cleaning for all datasets except for SST.
     Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data.py
     """
-    string = re.sub(r"[^A-Za-z0-9(),!?\'\`]", " ", string)
+    #print (string)
+    string = re.sub(r"[^A-Za-z0-9(),!?\'\`\.]", " ", string)
+    
     string = re.sub(r"\'s", " \'s", string)
+   
     string = re.sub(r"\'ve", " \'ve", string)
     string = re.sub(r"n\'t", " n\'t", string)
     string = re.sub(r"\'re", " \'re", string)
@@ -21,19 +24,22 @@ def clean_str(string):
     string = re.sub(r"\(", " \( ", string)
     string = re.sub(r"\)", " \) ", string)
     string = re.sub(r"\?", " \? ", string)
-    string = re.sub(r"\s{2,}", " ", string)
+    string = re.sub(r"\s{2,}", " ", string)  #single space
+    #print ("3", string)
     return string.strip().lower()
 
 
-def load_data_and_labels():
+def load_data_and_labels(positive_file, negative_file):
     """
     Loads MR polarity data from files, splits the data into words and generates labels.
     Returns split sentences and labels.
     """
+
+
     # Load data from files
-    positive_examples = list(open("./data/noteevent-temperature/NOTEEVENTS_high_temperature_small.txt", "r").readlines())
+    positive_examples = list(open(positive_file, "r").readlines())
     positive_examples = [s.strip() for s in positive_examples]
-    negative_examples = list(open("./data/noteevent-temperature/NOTEEVENTS_low_temperature_small.txt", "r").readlines())
+    negative_examples = list(open(negative_file, "r").readlines())
     negative_examples = [s.strip() for s in negative_examples]
     # Split by words
     x_text = positive_examples + negative_examples
@@ -43,6 +49,8 @@ def load_data_and_labels():
     positive_labels = [[0, 1] for _ in positive_examples]
     negative_labels = [[1, 0] for _ in negative_examples]
     y = np.concatenate([positive_labels, negative_labels], 0)
+    #print ('x_text = ', x_text)
+    #print (" y = " ,y )
     return [x_text, y]
 
 
@@ -58,6 +66,8 @@ def pad_sentences(sentences, padding_word="<PAD/>"):
         num_padding = sequence_length - len(sentence)
         new_sentence = sentence + [padding_word] * num_padding
         padded_sentences.append(new_sentence)
+    
+    #print ("pad sentences", padded_sentences)    
     return padded_sentences
 
 
@@ -68,20 +78,40 @@ def build_vocab(sentences):
     """
     # Build vocabulary
     word_counts = Counter(itertools.chain(*sentences))
+    #print ("word count", word_counts)
     # Mapping from index to word
     vocabulary_inv = [x[0] for x in word_counts.most_common()]
     vocabulary_inv = list(sorted(vocabulary_inv))
     # Mapping from word to index
     vocabulary = {x: i for i, x in enumerate(vocabulary_inv)}
+
+    #print ("vocabulary", vocabulary)
     return [vocabulary, vocabulary_inv]
 
+
+def get_word_vec (word, vocabulary):
+    """
+    Use the vocabulary lookup to build the work vector (just a index really)
+    For decimal word just use it as is
+    """
+    isDigit = re.match(r'^\d+\.?\d*$', word)
+    
+    if isDigit:
+        #print ("is digit", word)
+        return float(word)
+    else: 
+        return vocabulary[word]     
 
 def build_input_data(sentences, labels, vocabulary):
     """
     Maps sentencs and labels to vectors based on a vocabulary.
     """
-    x = np.array([[vocabulary[word] for word in sentence] for sentence in sentences])
+    #x = np.array([[vocabulary[word] for word in sentence] for sentence in sentences])
+    x = np.array([[get_word_vec(word, vocabulary) for word in sentence] for sentence in sentences])
     y = np.array(labels)
+
+    print ("\n\n X = ", x)
+    print ("\n\n Y = ", y)
     return [x, y]
 
 
@@ -91,10 +121,28 @@ def load_data():
     Returns input vectors, labels, vocabulary, and inverse vocabulary.
     """
     print ('load date(), loading temperature data')
+
+    #Use the big data set to build the vacabulary
+    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature.txt"
+    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature.txt"
+
     # Load and preprocess data
-    sentences, labels = load_data_and_labels()
+    sentences, labels = load_data_and_labels(positive_file, negative_file)
     sentences_padded = pad_sentences(sentences)
     vocabulary, vocabulary_inv = build_vocab(sentences_padded)
+
+    #Train on the small data set to test it out
+    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_small.txt"
+    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_small.txt"
+
+    # Load and preprocess data
+    sentences, labels = load_data_and_labels(positive_file, negative_file)
+    sentences_padded = pad_sentences(sentences)
+    #vocabulary, vocabulary_inv = build_vocab(sentences_padded)
+
+    #print ("vocabulary inv")
+    #print  (vocabulary_inv)
+
     x, y = build_input_data(sentences_padded, labels, vocabulary)
     return [x, y, vocabulary, vocabulary_inv]
 
