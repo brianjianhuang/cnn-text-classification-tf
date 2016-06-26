@@ -5,7 +5,7 @@ import numpy as np
 import os
 import time
 import datetime
-import data_helpers_temperature as data_helpers
+import data_helpers_temperature_test as data_helpers
 from text_cnn import TextCNN
 
 # Parameters
@@ -31,7 +31,7 @@ print("")
 print("Loading data...")
 x_test, y_test, vocabulary, vocabulary_inv = data_helpers.load_data()
 
-print x_test
+#print x_test
 
 y_test = np.argmax(y_test, axis=1)
 print("Vocabulary size: {:d}".format(len(vocabulary)))

@@ -132,8 +132,8 @@ def load_data():
     vocabulary, vocabulary_inv = build_vocab(sentences_padded)
 
     #Train on the small data set to test it out
-    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_small.txt"
-    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_small.txt"
+    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_test.txt"
+    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_test.txt"
 
     # Load and preprocess data
     sentences, labels = load_data_and_labels(positive_file, negative_file)
