@@ -81,40 +81,25 @@ def build_vocab(sentences):
     #print ("word count", word_counts)
     # Mapping from index to word
     vocabulary_inv = [x[0] for x in word_counts.most_common()]
+
+    print ('vocabulary_inv', vocabulary_inv)
     vocabulary_inv = list(sorted(vocabulary_inv))
+    vocabulary_inv_w = [ x for x in vocabulary_inv if not_number(x) ]
+    print('vocabulary_inv no number', vocabulary_inv_w)
     # Mapping from word to index
-    vocabulary = {x: i for i, x in enumerate(vocabulary_inv)}
+    vocabulary = {x: np.random.rand(3) for i, x in enumerate(vocabulary_inv_w)}
 
     print ("vocabulary", vocabulary)
     return [vocabulary, vocabulary_inv]
 
 
-def get_word_vec (word, vocabulary):
+def not_number (word):
     """
     Use the vocabulary lookup to build the work vector (just a index really)
     For decimal word just use it as is
     """
     isDigit = re.match(r'^\d+\.?\d*$', word)
-    
-    if isDigit:
-        #print ("is digit", word)
-        return float(word)
-    else: 
-        return vocabulary[word]     
-
-def build_input_data(sentences, labels, vocabulary):
-    """
-    Maps sentencs and labels to vectors based on a vocabulary.
-    """
-    #x = np.array([[vocabulary[word] for word in sentence] for sentence in sentences])
-    x = np.array([[get_word_vec(word, vocabulary) for word in sentence] for sentence in sentences])
-    y = np.array(labels)
-
-
-    print ("\n\n X = ", x)
-    print ("\n\n Y = ", y)
-    return [x, y]
-
+    return not isDigit
 
 def load_data():
     """
@@ -139,13 +124,12 @@ def load_data():
     # Load and preprocess data
     sentences, labels = load_data_and_labels(positive_file, negative_file)
     sentences_padded = pad_sentences(sentences)
+    print ('senences_padded', sentences_padded)
     vocabulary, vocabulary_inv = build_vocab(sentences_padded)
 
     #print ("vocabulary inv")
     #print  (vocabulary_inv)
-
-    x, y = build_input_data(sentences_padded, labels, vocabulary)
-    return [x, y, vocabulary, vocabulary_inv]
+    return [ vocabulary, vocabulary_inv]
 
 
 def batch_iter(data, batch_size, num_epochs, shuffle=True):
@@ -166,3 +150,9 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
             start_index = batch_num * batch_size
             end_index = min((batch_num + 1) * batch_size, data_size)
             yield shuffled_data[start_index:end_index]
+
+def main():
+    load_data()
+
+if __name__ == "__main__":
+    main()

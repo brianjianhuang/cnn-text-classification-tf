@@ -30,7 +30,12 @@ print("")
 # Load data. Load your own data here
 print("Loading data...")
 x_test, y_test, vocabulary, vocabulary_inv = data_helpers.load_data()
+print ("y_test" , y_test ) 
+
 y_test = np.argmax(y_test, axis=1)
+
+print ("y_test after arg max" , y_test ) 
+
 print("Vocabulary size: {:d}".format(len(vocabulary)))
 print("Test set size {:d}".format(len(y_test)))
 

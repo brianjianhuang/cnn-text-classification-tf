@@ -37,6 +37,7 @@ for attr, value in sorted(FLAGS.__flags.items()):
 print("")
 
 
+
 # Data Preparatopn
 # ==================================================
 
@@ -44,12 +45,23 @@ print("")
 print("Loading temperature data...")
 x, y, vocabulary, vocabulary_inv = data_helpers.load_data()
 
+print ("loaded data" , x, y)
+
+
 
 # Randomly shuffle data
 np.random.seed(10)
 shuffle_indices = np.random.permutation(np.arange(len(y)))
+
+
+print ("shuffle_indices" , shuffle_indices)
+
+
+
 x_shuffled = x[shuffle_indices]
 y_shuffled = y[shuffle_indices]
+print ("x_shuffled" , x_shuffled)
+
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
 x_train, x_dev = x_shuffled[:-1000], x_shuffled[-1000:]
@@ -122,6 +134,9 @@ with tf.Graph().as_default():
         sess.run(tf.initialize_all_variables())
 
         def train_step(x_batch, y_batch):
+
+            print ( " train step x_batch "  + x_batch)
+            print(" train step y_batch " + y_batch)
             """
             A single training step
             """
@@ -130,6 +145,8 @@ with tf.Graph().as_default():
               cnn.input_y: y_batch,
               cnn.dropout_keep_prob: FLAGS.dropout_keep_prob
             }
+
+            print ("x_batch" , x_batch)
             _, step, summaries, loss, accuracy = sess.run(
                 [train_op, global_step, train_summary_op, cnn.loss, cnn.accuracy],
                 feed_dict)
@@ -160,6 +177,9 @@ with tf.Graph().as_default():
         # Training loop. For each batch...
         for batch in batches:
             x_batch, y_batch = zip(*batch)
+
+            print (" train step x_batch ", x_batch)
+            print (" train step y_batch ", y_batch)
             train_step(x_batch, y_batch)
             current_step = tf.train.global_step(sess, global_step)
             if current_step % FLAGS.evaluate_every == 0:

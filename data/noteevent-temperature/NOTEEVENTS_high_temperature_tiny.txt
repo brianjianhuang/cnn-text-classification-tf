@@ -1,10 +1,3 @@
-later spiked with temp to 104.4 (rectal)  HR 91  BP 112/54  RR
-[**2823 9 29**] 08:01PM BLOOD Type ART Temp 102.02 Rates /24 FiO2 100
-[**2823 9 30**] 12:44AM BLOOD Type ART Temp 102.38000000000001 Rates /24 FiO2 100
-[**2823 10 1**] 12:11AM BLOOD Type ART Temp 99.68 Rates /20 Tidal V 350
-[**2823 10 3**] 05:25AM BLOOD Type ART Temp 101.11999999999999 Rates /24 FiO2 100
-[**2823 10 4**] 04:52AM BLOOD Type ART Temp 99.14 Rates 0/24 O2 Flow 5
-admission but temp to 104.4 in the ED  where she also started to
-In the ED inital vitals were  Temp: 101 ??????F (38.3 ??????C)  Pulse: 93 
 temperature to 100 so Flagyl was added for anaerobic coverage.
 discharge with a temperature max of 99.3  blood pressure
+Had temp 102.9 and was noted to have cloudy foul smelling urine

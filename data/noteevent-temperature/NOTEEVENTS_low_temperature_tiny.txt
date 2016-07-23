@@ -1,10 +1,7 @@
-at 5:33PM  she was afebrile with a temp of 96.5  however she
-[**3006 1 14**] 04:53PM BLOOD Type ART Temp 97.88000000000001 PEEP 5 pO2 88 pCO2 34*
-[**3006 1 13**] 07:09PM BLOOD Type ART Temp 98.41999999999999 Rates /24 PEEP 5
-[**3006 1 13**] 10:40AM BLOOD Type ART Temp 95.0 Rates /20 PEEP 5
-[**3006 1 12**] 10:19PM BLOOD Type ART Temp 98.96000000000001 pO2 65* pCO2 30*
-[**3006 1 12**] 01:10PM BLOOD Type ART Temp 97.88000000000001 Rates /12 Tidal V 500
-[**3006 1 11**] 04:50PM BLOOD Type ART Temp 96.98 Rates 20/0 Tidal V 500
-[**3006 1 2**] 03:29PM BLOOD Type ART Temp 97.16 O2 Flow 6 pO2 72*
-Temperature 98.7  heart rate 82  blood pressure 160/62 
-PHYSICAL EXAMINATION:  On admission  temperature is 99  heart
+PHYSICAL EXAMINATION:  Temperature maximum 97.8  134/65  80
+PHYSICAL EXAMINATION:  His temperature was 98.2 degrees 
+VITAL SIGNS:  Blood pressure 120/60  temperature 97.7  heart
+vitals: temp 97  HR 110  BP 161/90  RR 18 O2sat 98% 4LNC. Pt.
+temperature is 99.0  heart rate is 88 in normal sinus rhythm 
+PHYSICAL EXAMINATION:  Temperature 97.2  heartrate 85  blood
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 98.1  heart
