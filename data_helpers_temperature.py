@@ -2,31 +2,7 @@ import numpy as np
 import re
 import itertools
 from collections import Counter
-
-
-def clean_str(string):
-    """
-    Tokenization/string cleaning for all datasets except for SST.
-    Original taken from https://github.com/yoonkim/CNN_sentence/blob/master/process_data.py
-    """
-    #print (string)
-    string = re.sub(r"[^A-Za-z0-9(),!?\'\`\.]", " ", string)
-    
-    string = re.sub(r"\'s", " \'s", string)
-   
-    string = re.sub(r"\'ve", " \'ve", string)
-    string = re.sub(r"n\'t", " n\'t", string)
-    string = re.sub(r"\'re", " \'re", string)
-    string = re.sub(r"\'d", " \'d", string)
-    string = re.sub(r"\'ll", " \'ll", string)
-    string = re.sub(r",", " , ", string)
-    string = re.sub(r"!", " ! ", string)
-    string = re.sub(r"\(", " \( ", string)
-    string = re.sub(r"\)", " \) ", string)
-    string = re.sub(r"\?", " \? ", string)
-    string = re.sub(r"\s{2,}", " ", string)  #single space
-    #print ("3", string)
-    return string.strip().lower()
+import json
 
 
 def load_data_and_labels(positive_file, negative_file):
@@ -38,83 +14,20 @@ def load_data_and_labels(positive_file, negative_file):
 
     # Load data from files
     positive_examples = list(open(positive_file, "r").readlines())
-    positive_examples = [s.strip() for s in positive_examples]
+    positive_examples = [json.loads(s) for s in positive_examples]
     negative_examples = list(open(negative_file, "r").readlines())
-    negative_examples = [s.strip() for s in negative_examples]
+    negative_examples = [json.loads(s) for s in negative_examples]
     # Split by words
     x_text = positive_examples + negative_examples
-    x_text = [clean_str(sent) for sent in x_text]
-    x_text = [s.split(" ") for s in x_text]
+  
     # Generate labels
-    positive_labels = [[0, 1] for _ in positive_examples]
-    negative_labels = [[1, 0] for _ in negative_examples]
+    positive_labels = [[0.0, 1.0] for _ in positive_examples]
+    negative_labels = [[1.0, 0.0] for _ in negative_examples]
     y = np.concatenate([positive_labels, negative_labels], 0)
     #print ('x_text = ', x_text)
     #print (" y = " ,y )
     return [x_text, y]
-
-
-def pad_sentences(sentences, padding_word="<PAD/>"):
-    """
-    Pads all sentences to the same length. The length is defined by the longest sentence.
-    Returns padded sentences.
-    """
-    sequence_length = max(len(x) for x in sentences)
-    padded_sentences = []
-    for i in range(len(sentences)):
-        sentence = sentences[i]
-        num_padding = sequence_length - len(sentence)
-        new_sentence = sentence + [padding_word] * num_padding
-        padded_sentences.append(new_sentence)
-    
-    #print ("pad sentences", padded_sentences)    
-    return padded_sentences
-
-
-def build_vocab(sentences):
-    """
-    Builds a vocabulary mapping from word to index based on the sentences.
-    Returns vocabulary mapping and inverse vocabulary mapping.
-    """
-    # Build vocabulary
-    word_counts = Counter(itertools.chain(*sentences))
-    #print ("word count", word_counts)
-    # Mapping from index to word
-    vocabulary_inv = [x[0] for x in word_counts.most_common()]
-    vocabulary_inv = list(sorted(vocabulary_inv))
-    # Mapping from word to index
-    vocabulary = {x: i for i, x in enumerate(vocabulary_inv)}
-
-    print ("vocabulary", vocabulary)
-    return [vocabulary, vocabulary_inv]
-
-
-def get_word_vec (word, vocabulary):
-    """
-    Use the vocabulary lookup to build the work vector (just a index really)
-    For decimal word just use it as is
-    """
-    isDigit = re.match(r'^\d+\.?\d*$', word)
-    
-    if isDigit:
-        #print ("is digit", word)
-        return float(word)
-    else: 
-        return vocabulary[word]     
-
-def build_input_data(sentences, labels, vocabulary):
-    """
-    Maps sentencs and labels to vectors based on a vocabulary.
-    """
-    #x = np.array([[vocabulary[word] for word in sentence] for sentence in sentences])
-    x = np.array([[get_word_vec(word, vocabulary) for word in sentence] for sentence in sentences])
-    y = np.array(labels)
-
-
-    print ("\n\n X = ", x)
-    print ("\n\n Y = ", y)
-    return [x, y]
-
+   
 
 def load_data():
     """
@@ -123,35 +36,28 @@ def load_data():
     """
     print ('load date(), loading temperature data')
 
-    #Use the big data set to build the vacabulary
-    #positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature.txt"
-    #negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature.txt"
-
-    # Load and preprocess data
-    #sentences, labels = load_data_and_labels(positive_file, negative_file)
-    #sentences_padded = pad_sentences(sentences)
-    #vocabulary, vocabulary_inv = build_vocab(sentences_padded)
-
     #Train on the small data set to test it out
-    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_tiny.txt"
-    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_tiny.txt"
-
+    #positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_tiny.txt"
+    #negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_tiny.txt"
+    positive_file = "./data/noteevent-temperature/NOTEEVENTS_high_temperature_small.txt.tensor.json"
+    negative_file = "./data/noteevent-temperature/NOTEEVENTS_low_temperature_small.txt.tensor.json"
     # Load and preprocess data
     sentences, labels = load_data_and_labels(positive_file, negative_file)
-    sentences_padded = pad_sentences(sentences)
-    vocabulary, vocabulary_inv = build_vocab(sentences_padded)
 
     #print ("vocabulary inv")
     #print  (vocabulary_inv)
 
-    x, y = build_input_data(sentences_padded, labels, vocabulary)
-    return [x, y, vocabulary, vocabulary_inv]
+    x = sentences
+    y = labels
+    return [x, y]
 
 
 def batch_iter(data, batch_size, num_epochs, shuffle=True):
     """
     Generates a batch iterator for a dataset.
     """
+    #print ("batch_iter input", data, batch_size)
+
     data = np.array(data)
     data_size = len(data)
     num_batches_per_epoch = int(len(data)/batch_size) + 1
@@ -166,3 +72,16 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
             start_index = batch_num * batch_size
             end_index = min((batch_num + 1) * batch_size, data_size)
             yield shuffled_data[start_index:end_index]
+
+def main():
+    x, y = load_data()
+    print ("x", x)
+    print ("y", y)
+    #batchs = batch_iter(list(zip(x, y)), 1, 1)
+
+    for batch in batchs:
+        print ("batch", batch)
+
+
+if __name__ == "__main__":
+    main()

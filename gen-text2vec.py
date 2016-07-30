@@ -48,9 +48,9 @@ def is_number(s):
 
 def find_word_vec(word, word2vec, word_vec_size):
     if (is_number(word)):
-        number_tensor = [0] * word_vec_size
+        number_tensor = [0.0] * word_vec_size
         #just ot normlize the number a bit
-        norm_number = 1 -  1 / (float(word) + 1)
+        norm_number = 1 -  10 / (float(word) + 1)
         number_tensor[0] = norm_number
         return number_tensor
     else:
@@ -84,8 +84,8 @@ def load_word2vec(word2vec_json_file):
     return word2vec
 
 def main():
-     files = ['data/noteevent-temperature/NOTEEVENTS_high_temperature_tiny.txt',
-         'data/noteevent-temperature/NOTEEVENTS_low_temperature_tiny.txt']
+     files = ['data/noteevent-temperature/NOTEEVENTS_high_temperature_small.txt',
+         'data/noteevent-temperature/NOTEEVENTS_low_temperature_small.txt']
 
      #files = ['data/noteevent-temperature/NOTEEVENTS_high_temperature.txt',
      #   'data/noteevent-temperature/NOTEEVENTS_low_temperature.txt']

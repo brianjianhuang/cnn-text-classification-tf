@@ -53,7 +53,7 @@ y_train, y_dev = y_shuffled[:-1000], y_shuffled[-1000:]
 print("Vocabulary Size: {:d}".format(len(vocabulary)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
-
+print ("x train shepe:,",x_train.shape(1))
 # Training
 # ==================================================
 
